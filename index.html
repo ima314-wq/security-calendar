@@ -83,6 +83,7 @@
       renderCalendar();
     }
 
+// 95行目付近の renderStreak 関数を以下に差し替え
 function renderStreak() {
   const dates = Object.keys(incidentData).sort();
   if (dates.length === 0) {
@@ -121,16 +122,6 @@ function renderStreak() {
   document.getElementById('streakDays').textContent = streak;
   // ...以下、最終発生日の表示ロジックはそのまま...
 }
-
-      document.getElementById('streakDays').textContent = streak;
-      const badDates = dates.filter(d => incidentData[d].status === 'bad');
-      if (badDates.length > 0) {
-        const lastBad = badDates[badDates.length - 1];
-        document.getElementById('lastIncidentNotice').textContent = `最終発生報道日: ${lastBad}`;
-      } else {
-        document.getElementById('lastIncidentNotice').textContent = '期間中の発生報道なし';
-      }
-    }
 
     function renderCalendar() {
       const year = viewDate.getFullYear();
