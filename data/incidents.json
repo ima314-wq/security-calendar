@@ -1,1 +1,133 @@
-{}
+{
+  "2026-10-06": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "MrMax 最大173万人分の情報流出 - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XalV4V010UWdhdTJ5U0d2TEt0S0hLNUwxbTRJVXZIM3U1d3NjLVhPa3MxX1FOUnBjVW5haTlsZWdWXzhvX2tQQlBoc0tvQWFf?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "GMO系に不正アクセス、個人情報95万人分漏洩 ポイント不正利用も - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaTW1ldnRrSnNzVE1weWdfa3NFT0c3U0hka21QSWlPcUdGN1ZxblV3Ynh3VG1WamZWelFUeDFTeDJuLThXdkhYMG1zRkp3UGc1bzRUa3ZiVEVfR0JjMnN2blhRZWpBRWtzbVM1cA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "【情報まとめ】GMO不正アクセスで約95万件の個人情報流出 ポイント286万円分の不正利用を確認「勝手にAmazonギフトコードに交換」 二次被害の確認は初 大手企業で不正アクセス相次ぐ（テレビ朝日系（ANN）） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCSlpibTJqRXl6c3pyRTU0cUMwZzRiT0hfamZicFVEVW5sZzIta3NHd0pmQ2s5ZDlPWVZzU25RdHZmQUIyR3JVMmZCekJkTUNsSDgzYjdLLVl0YUVhR3V4YlV6TGFyVE53LTBrUzhfTmR3MHcySTNwYjZXUkVqNzQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "GMOグループ会社 不正アクセスによる個人情報流出　ポイントの不正利用も - ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oa1Vaa1NVd1pvNnhEUEhXd242QXluWk91NS13OXgtRlowVHBfWlp4dXc5VTBFZWZaOTVOdTd1UXZSbmZtZXhnLW96cndjZ1N1VGlFaUxEeHo4Zjh5NU9iNnA5Q2lNZ0dqWkJrWUFMMTk5UdIBd0FVX3lxTFBoWkNpN2o5NTctZzZGVEtNcmxyWkxhcWxWZWVySUtvTmRrM2JOU1djb3ZNZFczMUl3NTg4eHNPZVBCdEdQOENpRTBwLW9aSHRERldlTUVhdmRyTURnRTZ0T1NoSHhQM1RYd0JEUG9UTEkzNTZrSFp3?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "広島・修道学園 不正アクセスで個人情報流出か - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OckVfczNTUG80blV5TXR6YnU0VFdhdTRLcF9ta1pqRC1xNjJVMVpxbFNDaFlOcnJrb0ZvS1c2SEhzUUpVVzlEeGUydVZQQ0pOcUNZR1pLd2hsN2NDUEZMYkV5N2drWUxNb0dkV25Cc0hmc3VpVk1ZbUJnX0FKWTQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「おわび」装う二次被害にも注意 不正アクセスで個人情報流出 福岡でも相次ぐ 対策は（FBS福岡放送） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tZVdmTjZDbkliMWo1czNRNGhhNHZ5aHFWY0gyaENKM1hmeUx3Y3RldmJjV3c4Y185czN0cEJHN1lwaFlOdk9zN3Z5M0xVdHM0VVNJRzlRRUMzUWhvU1FYbDVCTkJtbWdNZ0RORUNVbDIwNDBoWjJac0NxS3NQbVE?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "個人情報流出なぜ相次ぐ?“異様な状況”AI悪用可能性の指摘も - NHKニュース",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqSGZldk95OEt2WFhzWDFCYVVZdFppR2ZFRmx6SjR0cF9GQl8wR2VPWlhmTEFOVzFBX2NuQVdUVEs1MkFvLVUtcnZabmVQS3JhVXBybzc5VVpSbkZjQWlz?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "タイムズカーで「情報漏洩」被害に遭った人が、今すぐやるべきこと - ダイヤモンド・オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LaTl5Y1FUdkNYTXdUQ0JGRFZrVVIxek14VWloRnNOdnNPQktFOG9EWFZBX2YxWDdoejVKOFQtSHpIRmd6Z1YwSXpjMXjSAU9BVV95cUxNSHZMajNuT1BobHBicEVScXRBcnpOUzBEVVdRbGJXNlphaHR5WDlsS2xyaDNzeFZPcXJWUzFzQy1oWVl1LUlqLUdqd0d5R2Zz?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「楽天ドライブ」に不正アクセス 保存したデータなど1.5万アカウント分が取得・閲覧のおそれ - ITmedia",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14RmR1N3ZpaTN0bjUzb25pUUIzRFFUUExaZGVSV0N3aGlZdUVjRTlubjdmNm1manpfeExocEdsRVZCa3ZPYldnWXpQcDJGWmt4S1JTazBFY2lSWjlsN3ppbV9JOGZOQlFreWc?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "焼肉きんぐに不正アクセス、1078万人分の情報流出 アプリ登録者ほぼ全員が対象（アスキー） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yajdHN2ZXOUJEYmRrN0V4aFp0WDRrd3FkaEx6V3NsSHp1Ri1SVVVWNkZ1Sy1LNEhQeW4zZ2dXSzJWbG0zTkR2YXBwWHlvTzR3aE1adW1OUGpzZzZNV3NPcFJwMTBNMjExZFkxTi1lekk2ZGY2TTB5RHVlTzdadjg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "韓国金融機関6行へAIを使ったサイバー攻撃、2万5000人超の個人情報流出 - ビジネス+IT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DUkRRblBMZGJVNmdwTno1T0VhVXZ5NnFBODVrOXktWjBsNmhqRkJCSXRpUjk5VmY3YXg0LTVNN29BWFJFVTJUUmtTM2dZSkk?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ヒロミ、“企業の個人情報流出”に私見 専門家も「ほぼ間違いない」同調したのは… - Sirabee",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZlhCU0lOdDJjdERBb1RNSGdVTnVLZkpRczIyOGlQY1lZT1R1TEdvSDV0b2RYWFFLUDRWek1OWENKSlV5QVM0REdWMEMxNVZ4ckNhdUtB?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "国内の不正アクセス、最多ペース 相次ぐ個人情報漏えい、対策急務 - 47NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40Ukg5MmhyRWJCRjdPU2ItS3pwV01udHNBOUhxQk9MNHdLc2Z0djJ4ekJCNmQ0WWpYVktwbXhITlBaZzdsZjZKYVBPZw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "相次ぐ情報漏洩・不正アクセスなどを受け、サイバーセキュリティクラウドが無償の「緊急相談窓口」を開設 - EnterpriseZine",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZN0J6TEVwX3dFUF9JZzNKUDc4STlNZThnRWMtN3pvUWkwZjNLRUZwYzNXXy1IMjJjbmQ2UmRGSVJGNzNDcks1X0F5bzA2bzZBZ21venZn?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "【被害続々】焼肉きんぐ、タイムズカーなど…情報漏えい相次ぐ背景に生成AIか「不正アクセスに気づいていない企業も多いのでは」セキュリティーを“業者任せ”のケースも - TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlWERFcURQVmJJRDJmNWRsQTNxakZSZks0SjQtYThHRXBaSEw2djNhekpvRkRHQVlfM214UVpWaVk3SnU3OEZvLWFqSUlhT0ZiblMtUUlkU3RTQlRFRlVMamgxdkg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "旭化成系、医療従事者向けサイトで情報漏洩か 最大約56万人 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tVXhMYWxuZ2QtYi1oYXAwWElUWGpIa2toamZFUy1oVW8wSFd1WHQ1Um1FNlAzeVZBRjE1S0VvOXNJNkJSUW1MYVVUeUhHUVozSEtBYjFlVGF6SHppRlpTRU9oN1JoNUpyUVotdw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "日経BP、メールアカウントへの不正アクセスにより個人情報漏えいの疑い。日経新聞社への攻撃が影響 - INTERNET Watch",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuVG1qb01kb1V0ZGxiQkFFNG00WGZSUWRyREcyTDk0anJVU2xia2prdWJWZTctZ2YyVUxwaDhqTnhkR0VYSTB0TnFvcVNJM21JcFNZMTZ6ZjhKQUxNVDR6RjJEa3A4QThtX084?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "焼肉きんぐ 公式アプリに不正アクセス、1078万件の個人情報漏えい - ビジネス+IT",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HUDhSZ192U01UTjBBSHBvdWh5UFFXdm5ESXFtZ1pabFU1V3B6STU5cjhKcnJFdFU5eG5nbGhzUkVlSXJ2ZkczUHh0amxoLUpTSmpJ?oc=5"
+      }
+    ]
+  }
+}
