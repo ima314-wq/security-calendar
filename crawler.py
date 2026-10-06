@@ -65,7 +65,7 @@ schema_config = types.GenerateContentConfig(
 )
 
 # 試行するモデル候補の優先順位リスト
-candidate_models = ["gemini-2.5-flash", "gemini-3.8-flash", "gemini-2.5-pro"]
+candidate_models = ["gemini-1.5-flash", "gemini-1.5-pro"]
 verified_incidents = None
 
 for model_name in candidate_models:
