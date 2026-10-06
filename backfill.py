@@ -29,7 +29,7 @@ if not api_key:
 
 client = genai.Client(api_key=api_key)
 
-# 2. Geminiに「リスト形式」で抽出させる (additionalPropertiesを回避)
+# 2. Geminiに「リスト形式」で抽出させる
 prompt = f"""
 以下はニュース記事の一覧です。
 【条件】
@@ -42,7 +42,6 @@ prompt = f"""
 {json.dumps(all_entries, ensure_ascii=False, indent=2)}
 """
 
-# スキーマを ARRAY (リスト) 形式に変更
 schema_config = types.GenerateContentConfig(
     response_mime_type="application/json",
     response_schema={
@@ -72,28 +71,37 @@ schema_config = types.GenerateContentConfig(
     }
 )
 
-try:
-    print("AIが過去記事を解析中...")
-    response = client.models.generate_content(
-        model="gemini-1.5-flash",
-        contents=prompt,
-        config=schema_config
-    )
-    # AIが返したリスト形式のデータを取得
-    raw_results = json.loads(response.text)
-    
-    # リスト形式から、incidents.json で使う { "日付": { ... } } の辞書形式に変換
-    past_data = {}
-    for item in raw_results:
-        date_key = item["date"]
-        past_data[date_key] = {
-            "status": item["status"],
-            "incidents": item["incidents"]
-        }
-    print(f"-> {len(past_data)} 日分のデータを抽出しました。")
-except Exception as e:
-    print(f"エラーが発生しました: {e}")
+# crawler.py と同様に、複数のモデルを試行する
+candidate_models = ["gemini-1.5-flash", "gemini-1.5-flash-latest", "gemini-1.5-pro"]
+verified_results = None
+
+for model_name in candidate_models:
+    try:
+        print(f"モデル '{model_name}' で解析を試行中...")
+        response = client.models.generate_content(
+            model=model_name,
+            contents=prompt,
+            config=schema_config
+        )
+        verified_results = json.loads(response.text)
+        print(f"-> 成功: {model_name} でデータを抽出しました。")
+        break
+    except Exception as e:
+        print(f"モデル {model_name} でエラーが発生しました: {e}")
+        continue
+
+if verified_results is None:
+    print("すべての試行モデルでエラーが発生しました。処理を中断します。")
     exit(1)
+
+# リスト形式から辞書形式に変換
+past_data = {}
+for item in verified_results:
+    date_key = item["date"]
+    past_data[date_key] = {
+        "status": item["status"],
+        "incidents": item["incidents"]
+    }
 
 # 3. data/incidents.json にマージして保存
 data_file = "data/incidents.json"
