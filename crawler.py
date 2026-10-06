@@ -1,5 +1,6 @@
 import os
 import json
+import time
 from datetime import datetime, timezone, timedelta
 import feedparser
 from google import genai
@@ -17,10 +18,10 @@ feed = feedparser.parse(RSS_URL)
 recent_entries = []
 
 # 直近の記事を最大20件ピックアップ
-for entry in feed.entries[:20]:
+for entry in getattr(feed, "entries", [])[:20]:
     recent_entries.append({
-        "title": entry.title,
-        "link": entry.link,
+        "title": getattr(entry, "title", ""),
+        "link": getattr(entry, "link", ""),
         "published": getattr(entry, "published", "")
     })
 
@@ -45,30 +46,68 @@ prompt = f"""
 JSONスキーマに従って出力してください。
 """
 
-response = client.models.generate_content(
-    model="gemini-3.8-flash",
-    contents=prompt,
-    config=types.GenerateContentConfig(
-        response_mime_type="application/json",
-        response_schema={
-            "type": "ARRAY",
-            "items": {
-                "type": "OBJECT",
-                "properties": {
-                    "company": {"type": "STRING", "description": "被害に遭った企業・組織名"},
-                    "leak_type": {"type": "STRING", "description": "原因 (例: 不正アクセス, 設定ミス, 端末紛失, ランサムウェア)"},
-                    "scale": {"type": "STRING", "description": "被害件数や規模 (不明なら'調査中')"},
-                    "summary": {"type": "STRING", "description": "事案の簡潔な1文要約"},
-                    "url": {"type": "STRING", "description": "ニュース記事のリンクURL"}
-                },
-                "required": ["company", "leak_type", "summary", "url"]
-            }
+schema_config = types.GenerateContentConfig(
+    response_mime_type="application/json",
+    response_schema={
+        "type": "ARRAY",
+        "items": {
+            "type": "OBJECT",
+            "properties": {
+                "company": {"type": "STRING", "description": "被害に遭った企業・組織名"},
+                "leak_type": {"type": "STRING", "description": "原因 (例: 不正アクセス, 設定ミス, 端末紛失, ランサムウェア)"},
+                "scale": {"type": "STRING", "description": "被害件数や規模 (不明なら'調査中')"},
+                "summary": {"type": "STRING", "description": "事案の簡潔な1文要約"},
+                "url": {"type": "STRING", "description": "ニュース記事のリンクURL"}
+            },
+            "required": ["company", "leak_type", "summary", "url"]
         }
-    )
+    }
 )
 
-verified_incidents = json.loads(response.text)
-print(f"判定された漏洩インシデント: {len(verified_incidents)} 件")
+# 試行するモデル候補の優先順位リスト
+candidate_models = ["gemini-2.5-flash", "gemini-3.8-flash", "gemini-2.5-pro"]
+verified_incidents = None
+
+for model_name in candidate_models:
+    print(f"モデル '{model_name}' を試行中...")
+    success = False
+    
+    # 最大3回リトライ（混雑時の503対策）
+    for attempt in range(1, 4):
+        try:
+            response = client.models.generate_content(
+                model=model_name,
+                contents=prompt,
+                config=schema_config
+            )
+            verified_incidents = json.loads(response.text)
+            print(f"-> 成功: {len(verified_incidents)} 件のインシデントを検出")
+            success = True
+            break
+        except Exception as e:
+            print(f"[{model_name}] 試行 {attempt}/3 でエラー: {e}")
+            if attempt < 3:
+                wait_sec = attempt * 5  # 5秒、10秒待機
+                print(f"{wait_sec}秒待機してリトライします...")
+                time.sleep(wait_sec)
+    
+    if success:
+        break
+
+# もしすべてのモデル・リトライで失敗した場合は、簡易キーワード判定にフォールバック（プロセスを落とさない）
+if verified_incidents is None:
+    print("警告: AIモデルの呼び出しが混雑等によりすべて失敗しました。簡易キーワード判定に切り替えます。")
+    verified_incidents = []
+    keywords = ["漏洩", "流出", "不正アクセス", "ランサムウェア"]
+    for item in recent_entries:
+        if any(k in item["title"] for k in keywords) and ("セミナー" not in item["title"]):
+            verified_incidents.append({
+                "company": "報道記事参照",
+                "leak_type": "不正アクセス・漏洩の疑い",
+                "scale": "記事参照",
+                "summary": item["title"],
+                "url": item["link"]
+            })
 
 # data/incidents.json の更新
 data_file = "data/incidents.json"
@@ -97,4 +136,4 @@ else:
 with open(data_file, "w", encoding="utf-8") as f:
     json.dump(database, f, ensure_ascii=False, indent=2)
 
-print(f"{today_str} のデータを保存しました。")
+print(f"{today_str} のデータを正常に保存・更新しました。")
