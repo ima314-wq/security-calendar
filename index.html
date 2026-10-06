@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>国内情報漏洩ゼロカウンター＆カレンダー</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Noto+Sans+JP:wght@400;600;700;900&display=swap');
+    .digital-font { font-family: 'Share Tech Mono', monospace; }
+  </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen font-sans">
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <header class="text-center mb-8">
+      <div class="inline-flex items-center gap-2 px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-amber-400 text-xs font-semibold mb-3">
+        <span class="w-2 h-2 rounded-full bg-amber-400 animate-ping"></span>
+        国内主要ニュース自動監視中
+      </div>
+      <h1 class="text-3xl sm:text-4xl font-black tracking-tight text-white flex items-center justify-center gap-3">
+        <i class="fa-solid fa-shield-halved text-emerald-400"></i> 情報漏洩ゼロカウンター
+      </h1>
+      <p class="text-slate-400 text-sm mt-2">企業・組織の情報流出・不正アクセスが報じられなかった平穏な日を追跡</p>
+    </header>
+
+    <!-- 安全日数カウンター看板 -->
+    <div class="bg-gradient-to-br from-slate-900 via-slate-900 to-slate-800 border-2 border-slate-700/80 rounded-2xl p-6 shadow-2xl mb-8">
+      <div class="flex flex-col sm:flex-row items-center justify-between gap-6 text-center sm:text-left">
+        <div>
+          <span class="text-xs uppercase tracking-wider font-bold text-slate-400">現在記録中</span>
+          <h2 class="text-xl font-bold text-slate-200 mt-1">連続無漏洩日数</h2>
+          <p class="text-xs text-slate-400 mt-1" id="lastIncidentNotice">計算中...</p>
+        </div>
+        <div class="flex items-baseline gap-2 bg-black/40 border border-slate-700 px-8 py-3 rounded-xl">
+          <span id="streakDays" class="digital-font text-6xl sm:text-7xl font-bold text-emerald-400">0</span>
+          <span class="text-lg font-bold text-slate-400">日</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- カレンダーエリア -->
+    <div class="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl">
+      <div class="flex items-center justify-between mb-6">
+        <h2 id="calendarTitle" class="text-xl font-bold text-white"></h2>
+        <div class="flex items-center gap-2">
+          <button id="prevMonthBtn" class="p-2 bg-slate-800 hover:bg-slate-700 rounded-lg text-slate-300 transition"><i class="fa-solid fa-chevron-left"></i></button>
+          <button id="todayBtn" class="px-3 py-1 text-xs bg-slate-800 hover:bg-slate-700 rounded-lg text-slate-300 font-semibold transition">今月</button>
+          <button id="nextMonthBtn" class="p-2 bg-slate-800 hover:bg-slate-700 rounded-lg text-slate-300 transition"><i class="fa-solid fa-chevron-right"></i></button>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-7 gap-2 mb-2 text-center text-xs font-bold text-slate-500">
+        <span class="text-rose-400">日</span><span>月</span><span>火</span><span>水</span><span>木</span><span>金</span><span class="text-sky-400">土</span>
+      </div>
+      <div id="calendarGrid" class="grid grid-cols-7 gap-2"></div>
+    </div>
+
+    <!-- 詳細モーダル -->
+    <div id="incidentModal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm">
+      <div class="bg-slate-900 border border-slate-700 w-full max-w-lg rounded-2xl p-6 max-h-[85vh] overflow-y-auto">
+        <div class="flex items-center justify-between border-b border-slate-800 pb-3 mb-4">
+          <h3 id="modalDate" class="text-lg font-bold text-white"></h3>
+          <button id="closeModalBtn" class="text-slate-400 hover:text-white"><i class="fa-solid fa-xmark text-lg"></i></button>
+        </div>
+        <div id="modalBody"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let incidentData = {};
+    let viewDate = new Date();
+
+    async function init() {
+      try {
+        const res = await fetch('./data/incidents.json');
+        if (res.ok) incidentData = await res.json();
+      } catch (e) {
+        console.warn('data/incidents.json の読み込みに失敗しました。');
+      }
+      renderStreak();
+      renderCalendar();
+    }
+
+    function renderStreak() {
+      const dates = Object.keys(incidentData).sort();
+      if (dates.length === 0) {
+        document.getElementById('streakDays').textContent = '0';
+        document.getElementById('lastIncidentNotice').textContent = 'データ収集中';
+        return;
+      }
+      // 最新日から直近の事故(bad)を逆算
+      let streak = 0;
+      const today = new Date().toISOString().split('T')[0];
+      let checkDate = new Date();
+
+      while (true) {
+        const dStr = checkDate.toISOString().split('T')[0];
+        const record = incidentData[dStr];
+        if (!record) {
+          if (dStr !== today) break;
+        } else if (record.status === 'bad') {
+          break;
+        } else if (record.status === 'clean') {
+          streak++;
+        }
+        checkDate.setDate(checkDate.getDate() - 1);
+      }
+
+      document.getElementById('streakDays').textContent = streak;
+      const badDates = dates.filter(d => incidentData[d].status === 'bad');
+      if (badDates.length > 0) {
+        const lastBad = badDates[badDates.length - 1];
+        document.getElementById('lastIncidentNotice').textContent = `最終発生報道日: ${lastBad}`;
+      } else {
+        document.getElementById('lastIncidentNotice').textContent = '期間中の発生報道なし';
+      }
+    }
+
+    function renderCalendar() {
+      const year = viewDate.getFullYear();
+      const month = viewDate.getMonth();
+      document.getElementById('calendarTitle').textContent = `${year}年 ${month + 1}月`;
+
+      const firstDay = new Date(year, month, 1).getDay();
+      const daysInMonth = new Date(year, month + 1, 0).getDate();
+      const grid = document.getElementById('calendarGrid');
+      grid.innerHTML = '';
+
+      // 空白マス
+      for (let i = 0; i < firstDay; i++) {
+        const empty = document.createElement('div');
+        empty.className = 'h-20 bg-slate-900/30 rounded-xl border border-dashed border-slate-800/40';
+        grid.appendChild(empty);
+      }
+
+      for (let day = 1; day <= daysInMonth; day++) {
+        const dateStr = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+        const record = incidentData[dateStr];
+        const cell = document.createElement('div');
+        cell.className = 'h-20 p-1.5 rounded-xl border flex flex-col justify-between cursor-pointer transition select-none ';
+
+        if (!record) {
+          cell.className += 'bg-slate-900/60 border-slate-800/80 hover:border-slate-700 text-slate-500';
+          cell.innerHTML = `
+            <span class="text-xs font-semibold">${day}</span>
+            <div class="text-center text-slate-600 font-bold text-lg">·</div>
+          `;
+        } else if (record.status === 'clean') {
+          cell.className += 'bg-emerald-950/20 border-emerald-500/30 hover:border-emerald-500/60 text-emerald-400';
+          cell.innerHTML = `
+            <span class="text-xs font-semibold">${day}</span>
+            <div class="text-center font-black text-2xl text-emerald-400 drop-shadow">◯</div>
+          `;
+        } else {
+          cell.className += 'bg-rose-950/30 border-rose-500/40 hover:border-rose-500/70 text-rose-400';
+          cell.innerHTML = `
+            <div class="flex items-center justify-between">
+              <span class="text-xs font-semibold">${day}</span>
+              <span class="text-[10px] bg-rose-500/20 px-1 rounded text-rose-300 font-bold">${record.incidents?.length || 1}件</span>
+            </div>
+            <div class="text-center font-black text-2xl text-rose-500 drop-shadow">✗</div>
+          `;
+        }
+
+        cell.onclick = () => showModal(dateStr, record);
+        grid.appendChild(cell);
+      }
+    }
+
+    function showModal(dateStr, record) {
+      document.getElementById('modalDate').textContent = `${dateStr} の詳細`;
+      const body = document.getElementById('modalBody');
+      if (!record) {
+        body.innerHTML = '<p class="text-slate-400 text-sm text-center py-6">この日の巡回記録はまだありません。</p>';
+      } else if (record.status === 'clean') {
+        body.innerHTML = `
+          <div class="text-center py-6">
+            <div class="text-5xl text-emerald-400 mb-2 font-black">◯</div>
+            <h4 class="text-lg font-bold text-emerald-300">情報漏洩なし (安全)</h4>
+            <p class="text-xs text-slate-400 mt-2">この日は主要な漏洩・流出の一次事案報道は検知されませんでした。</p>
+          </div>
+        `;
+      } else {
+        const list = (record.incidents || []).map(inc => `
+          <div class="p-3 bg-slate-800/70 border border-slate-700/80 rounded-xl mb-3 last:mb-0">
+            <div class="flex items-center justify-between gap-2 mb-1">
+              <span class="font-bold text-white text-sm">${inc.company || '組織名不明'}</span>
+              <span class="text-[10px] bg-rose-500/20 text-rose-300 px-2 py-0.5 rounded-full font-semibold">${inc.leak_type || '不正流出'}</span>
+            </div>
+            <p class="text-xs text-slate-300 mb-2">${inc.summary || ''}</p>
+            <div class="flex items-center justify-between text-[11px] text-slate-400">
+              <span>規模: <strong class="text-slate-200">${inc.scale || '不明'}</strong></span>
+              ${inc.url ? `<a href="${inc.url}" target="_blank" rel="noopener" class="text-sky-400 hover:underline flex items-center gap-1">記事を読む <i class="fa-solid fa-arrow-up-right-from-square text-[9px]"></i></a>` : ''}
+            </div>
+          </div>
+        `).join('');
+        body.innerHTML = `
+          <div class="mb-3 text-xs text-rose-400 font-bold flex items-center gap-1">
+            <i class="fa-solid fa-triangle-exclamation"></i> 以下のインシデント報道が検知されました:
+          </div>
+          ${list}
+        `;
+      }
+      document.getElementById('incidentModal').classList.remove('hidden');
+    }
+
+    document.getElementById('closeModalBtn').onclick = () => document.getElementById('incidentModal').classList.add('hidden');
+    document.getElementById('incidentModal').onclick = (e) => {
+      if (e.target.id === 'incidentModal') document.getElementById('incidentModal').classList.add('hidden');
+    };
+    document.getElementById('prevMonthBtn').onclick = () => { viewDate.setMonth(viewDate.getMonth() - 1); renderCalendar(); };
+    document.getElementById('nextMonthBtn').onclick = () => { viewDate.setMonth(viewDate.getMonth() + 1); renderCalendar(); };
+    document.getElementById('todayBtn').onclick = () => { viewDate = new Date(); renderCalendar(); };
+
+    init();
+  </script>
+</body>
+</html>
