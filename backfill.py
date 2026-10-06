@@ -13,7 +13,7 @@ RSS_URL = "https://news.google.com/rss/search?q=%E6%83%85%E5%A0%B1%E6%BC%8F%E6%B
 
 print(f"{START_DATE} から {END_DATE} までのデータを復旧します...")
 
-# 1. RSSから多めに記事を取得 (過去分をカバーするため最大100件)
+# 1. RSSから多めに記事を取得
 feed = feedparser.parse(RSS_URL)
 all_entries = []
 for entry in getattr(feed, "entries", [])[:100]:
@@ -29,26 +29,28 @@ if not api_key:
 
 client = genai.Client(api_key=api_key)
 
-# 2. Geminiに「期間内の事案を日付ごとに整理して抽出」させる
+# 2. Geminiに「リスト形式」で抽出させる (additionalPropertiesを回避)
 prompt = f"""
 以下はニュース記事の一覧です。
 【条件】
 1. {START_DATE} から {END_DATE} までの期間に、日本国内の企業・自治体・組織で「実際に個人情報や機密情報の漏洩・流出・不正アクセス被害が発生した/公表された一次事案」のみを抽出してください。
-2. 日付ごとに整理して出力してください。
-3. 該当する事案がない日も、日付をキーにして status: "clean" として含めてください。
+2. 結果は「日ごとのオブジェクト」を要素に持つ配列（リスト）形式で返してください。
+3. 該当する事案がない日も、日付を a `date` フィールドに入れ、status: "clean" として含めてください。
 4. 単なるセミナー告知、海外事例、一般コラムは除外してください。
 
 ニュース一覧:
 {json.dumps(all_entries, ensure_ascii=False, indent=2)}
 """
 
+# スキーマを ARRAY (リスト) 形式に変更
 schema_config = types.GenerateContentConfig(
     response_mime_type="application/json",
     response_schema={
-        "type": "OBJECT",
-        "additionalProperties": {
+        "type": "ARRAY",
+        "items": {
             "type": "OBJECT",
             "properties": {
+                "date": {"type": "STRING", "description": "YYYY-MM-DD形式の日付"},
                 "status": {"type": "STRING", "enum": ["bad", "clean"]},
                 "incidents": {
                     "type": "ARRAY",
@@ -65,7 +67,7 @@ schema_config = types.GenerateContentConfig(
                     }
                 }
             },
-            "required": ["status", "incidents"]
+            "required": ["date", "status", "incidents"]
         }
     }
 )
@@ -77,7 +79,17 @@ try:
         contents=prompt,
         config=schema_config
     )
-    past_data = json.loads(response.text)
+    # AIが返したリスト形式のデータを取得
+    raw_results = json.loads(response.text)
+    
+    # リスト形式から、incidents.json で使う { "日付": { ... } } の辞書形式に変換
+    past_data = {}
+    for item in raw_results:
+        date_key = item["date"]
+        past_data[date_key] = {
+            "status": item["status"],
+            "incidents": item["incidents"]
+        }
     print(f"-> {len(past_data)} 日分のデータを抽出しました。")
 except Exception as e:
     print(f"エラーが発生しました: {e}")
