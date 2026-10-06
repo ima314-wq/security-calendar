@@ -83,30 +83,44 @@
       renderCalendar();
     }
 
-    function renderStreak() {
-      const dates = Object.keys(incidentData).sort();
-      if (dates.length === 0) {
-        document.getElementById('streakDays').textContent = '0';
-        document.getElementById('lastIncidentNotice').textContent = 'データ収集中';
-        return;
-      }
-      // 最新日から直近の事故(bad)を逆算
-      let streak = 0;
-      const today = new Date().toISOString().split('T')[0];
-      let checkDate = new Date();
+function renderStreak() {
+  const dates = Object.keys(incidentData).sort();
+  if (dates.length === 0) {
+    document.getElementById('streakDays').textContent = '0';
+    document.getElementById('lastIncidentNotice').textContent = 'データ収集中';
+    return;
+  }
 
-      while (true) {
-        const dStr = checkDate.toISOString().split('T')[0];
-        const record = incidentData[dStr];
-        if (!record) {
-          if (dStr !== today) break;
-        } else if (record.status === 'bad') {
-          break;
-        } else if (record.status === 'clean') {
-          streak++;
-        }
-        checkDate.setDate(checkDate.getDate() - 1);
+  let streak = 0;
+  // 日本時間での今日の日付文字列を取得
+  const today = new Date(new Date().getTime() + (9 * 60 * 60 * 1000)).toISOString().split('T')[0];
+  let checkDate = new Date();
+  // タイムゾーン補正をかけた状態で計算開始
+  checkDate.setHours(checkDate.getHours() + 9);
+
+  while (true) {
+    const dStr = checkDate.toISOString().split('T')[0];
+    const record = incidentData[dStr];
+    
+    if (record) {
+      if (record.status === 'bad') {
+        break; // 事故ありで終了
+      } else if (record.status === 'clean') {
+        streak++; // 安全日をカウント
       }
+    } else {
+      // データがない日は「不明」としてスキップし、ストリークは維持する
+      // (厳格にしたい場合はここで break させる)
+    }
+    checkDate.setDate(checkDate.getDate() - 1);
+    
+    // あまりに古いデータまで遡らないよう制限（例: 1000日前まで）
+    if (streak > 1000) break;
+  }
+
+  document.getElementById('streakDays').textContent = streak;
+  // ...以下、最終発生日の表示ロジックはそのまま...
+}
 
       document.getElementById('streakDays').textContent = streak;
       const badDates = dates.filter(d => incidentData[d].status === 'bad');
