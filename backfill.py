@@ -5,6 +5,7 @@ import re
 from datetime import datetime, timezone, timedelta
 import feedparser
 from google import genai
+from email.utils import parsedate_to_datetime
 
 # 設定
 START_DATE = "2026-10-01"
@@ -17,10 +18,18 @@ print(f"{START_DATE} から {END_DATE} までのデータを復旧します...")
 feed = feedparser.parse(RSS_URL)
 all_entries = []
 for entry in getattr(feed, "entries", [])[:100]:
+    # 公開日を datetime オブジェクトに変換して保存
+    pub_date = None
+    if "published" in entry:
+        try:
+            pub_date = parsedate_to_datetime(entry.published).astimezone(timezone.utc)
+        except:
+            pass
+            
     all_entries.append({
         "title": getattr(entry, "title", ""),
         "link": getattr(entry, "link", ""),
-        "published": getattr(entry, "published", "")
+        "published": pub_date # datetime型
     })
 
 api_key = os.environ.get("GEMINI_API_KEY")
@@ -45,7 +54,7 @@ prompt = f"""
 - 形式: [ {{ "date": "YYYY-MM-DD", "status": "bad", "incidents": [ {{ "company": "...", "leak_type": "...", "scale": "...", "summary": "...", "url": "..." }} ] }} ]
 
 ニュース一覧:
-{json.dumps(all_entries, ensure_ascii=False, indent=2)}
+{json.dumps(all_entries, ensure_ascii=False, indent=2, default=str)}
 """
 
 candidate_models = ["gemini-1.5-flash", "gemini-1.5-pro"]
@@ -69,31 +78,34 @@ if client:
             print(f"モデル {model_name} でエラーが発生しました: {e}")
             continue
 
-# 3. AIが失敗した場合の「キーワードフォールバック」
+# 3. AIが失敗した場合の「キーワードフォールバック」 (日付判定を追加)
 if verified_results is None:
-    print("AI解析がすべて失敗したため、簡易キーワード判定に切り替えます...")
+    print("AI解析が失敗したため、日付に基づいたキーワード判定に切り替えます...")
     verified_results = []
     keywords = ["漏洩", "流出", "不正アクセス", "ランサムウェア"]
     
-    # START_DATEからEND_DATEまで1日ずつループして判定
-    start = datetime.strptime(START_DATE, "%Y-%m-%d")
-    end = datetime.strptime(END_DATE, "%Y-%m-%d")
-    current = start
-    while current <= end:
+    start_dt = datetime.strptime(START_DATE, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    end_dt = datetime.strptime(END_DATE, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    
+    current = start_dt
+    while current <= end_dt:
         date_str = current.strftime("%Y-%m-%d")
         day_incidents = []
         
         for item in all_entries:
-            # 簡易的な日付判定（記事タイトルや公開日に日付が含まれているか、または全記事を候補にする）
-            # 過去分RSSは日付の厳密な切り分けが難しいため、キーワード合致ものを抽出
-            if any(k in item["title"] for k in keywords) and ("セミナー" not in item["title"]):
-                day_incidents.append({
-                    "company": "報道記事参照",
-                    "leak_type": "不正アクセス・漏洩の疑い",
-                    "scale": "記事参照",
-                    "summary": item["title"],
-                    "url": item["link"]
-                })
+            # 記事の公開日があるか、かつその日が現在のループ日と同じかを確認
+            if item["published"]:
+                article_date_str = item["published"].strftime("%Y-%m-%d")
+                if article_date_str == date_str:
+                    # 日付が一致した上で、キーワードが含まれているか判定
+                    if any(k in item["title"] for k in keywords) and ("セミナー" not in item["title"]):
+                        day_incidents.append({
+                            "company": "報道記事参照",
+                            "leak_type": "不正アクセス・漏洩の疑い",
+                            "scale": "記事参照",
+                            "summary": item["title"],
+                            "url": item["link"]
+                        })
         
         verified_results.append({
             "date": date_str,
