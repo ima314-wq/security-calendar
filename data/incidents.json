@@ -143,70 +143,12 @@
     "incidents": []
   },
   "2026-10-04": {
-    "status": "bad",
-    "incidents": [
-      {
-        "company": "報道記事参照",
-        "leak_type": "不正アクセス・漏洩の疑い",
-        "scale": "記事参照",
-        "summary": "日経にサイバー攻撃 情報漏洩、不審メール9000件送信 - 日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ieWIzdmlWUEVQcERJOUpzRDF0bU5lbTYyTG5TbWZIWUVYV05oampDY2E0cTJram1fMHRSdHNldmFtMTN6WVRXdFlzTGt2Zm8tZ0REQjNWRmVQblhDYWViMUlOOHVSemx5WjJfQQ?oc=5"
-      }
-    ]
+    "status": "clean",
+    "incidents": []
   },
   "2026-10-05": {
-    "status": "bad",
-    "incidents": [
-      {
-        "company": "報道記事参照",
-        "leak_type": "不正アクセス・漏洩の疑い",
-        "scale": "記事参照",
-        "summary": "焼肉きんぐに不正アクセス、1078万人分の情報流出 アプリ登録者ほぼ全員が対象（アスキー） - Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yajdHN2ZXOUJEYmRrN0V4aFp0WDRrd3FkaEx6V3NsSHp1Ri1SVVVWNkZ1Sy1LNEhQeW4zZ2dXSzJWbG0zTkR2YXBwWHlvTzR3aE1adW1OUGpzZzZNV3NPcFJwMTBNMjExZFkxTi1lekk2ZGY2TTB5RHVlTzdadjg?oc=5"
-      },
-      {
-        "company": "報道記事参照",
-        "leak_type": "不正アクセス・漏洩の疑い",
-        "scale": "記事参照",
-        "summary": "大和証券、問い合わせ管理サービスへの不正アクセスで約11万人の利用者情報漏えいの可能性 - INTERNET Watch",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJSzVLcTBDdHh2WGtoRlAyQUZXTG5uaUVfWEtjTHg5cm1TU0FTZ1UzMm5JTFMtTzB5Ujc1ZTJsTlFpRGpxX0ZKM0JYVFFPQzFPVVVxYVhCRzk5RTNaUUNpaGs0c2FxN2w0Q2Mw?oc=5"
-      },
-      {
-        "company": "報道記事参照",
-        "leak_type": "不正アクセス・漏洩の疑い",
-        "scale": "記事参照",
-        "summary": "「Gyazo」から6.9億件の情報漏洩、利用者が削除した画像のメタデータも対象 - 日経クロステック（xTECH）",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KaVBhTHgtV1pmNHNPQ0pmYVJRT0Zxd3FjZnBfV183ZUNnLUVGc0pSbHdvNFRrMlp1ZzdxZXIxVkowRENmanFVNlFJX2hyalgzUkw3SzV3UEFQSlpPZDZWa1d2ZW41dEdUZm8tcQ?oc=5"
-      },
-      {
-        "company": "報道記事参照",
-        "leak_type": "不正アクセス・漏洩の疑い",
-        "scale": "記事参照",
-        "summary": "GMO「infoQ」に不正アクセス、最大95万件の会員情報漏えい ポイント287万円分が不正交換される - ITmedia",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mMTBYLWNDWnQ2MFozMDFkV1JsRnZsTWVydEs4eGtHSVUtU0lidUF1S3dUZWFMbzFGMmhlUFh1QTNHTTkwODlTSzlNU3JtUXFBNVFrT1NscU5rR3JsX1drdWEzVGR0d1JvUGc?oc=5"
-      },
-      {
-        "company": "報道記事参照",
-        "leak_type": "不正アクセス・漏洩の疑い",
-        "scale": "記事参照",
-        "summary": "大手企業で情報漏洩の発表相次ぐ 焼肉きんぐは1000万件超 - テレ朝NEWS",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lUTE3RHNuT3g0SW9rUm9oOWV4T2p0UUpvVVRWZ202V0FUN2E2T3FZT3c3eWlNc0FSSzhJckdFcUVpUXRzYWhScHkwQUVLZUY4ZVpNVmY5eFVwTXMySGc2X0hIb2d0YVh3bTZraENqNV9Hdw?oc=5"
-      },
-      {
-        "company": "報道記事参照",
-        "leak_type": "不正アクセス・漏洩の疑い",
-        "scale": "記事参照",
-        "summary": "『焼肉きんぐ』1000万件超の情報漏洩 なぜ今、飲食店アプリが狙われるのか？ #エキスパートトピ（山路力也） - エキスパート - Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ3BXc0hsQzFqdExLZlpwQU5PcGpYOVFYYnAxVDNTUmZzTjE5MC1UR1BhcnoycS12amQ2Y0o0cHBYdVZadUNWdmZUWGMxRGtJZldzQnVpbktyMGpJZzBxOFBWNjB6LVhrNWc0MGd1SEVzdnh4LTU5Mi05Z2RZTVdlTzRTVkVlcHBZ?oc=5"
-      },
-      {
-        "company": "報道記事参照",
-        "leak_type": "不正アクセス・漏洩の疑い",
-        "scale": "記事参照",
-        "summary": "大手企業で情報漏洩の発表相次ぐ 焼肉きんぐは1000万件超 – Quebee キュエビー - QAB 琉球朝日放送",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBORWV4WnVscDIzWDFEdXMxU1N4NlVJRFYwS1NzSFppajdQS2I2Y2ktOTdSVFNjOWRWSnRTN3pDS0RoSlpPV2o2UXRWOUVyejNUWFlpUUlmV2g?oc=5"
-      }
-    ]
+    "status": "clean",
+    "incidents": []
   },
   "2026-10-07": {
     "status": "clean",
