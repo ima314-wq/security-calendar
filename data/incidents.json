@@ -654,15 +654,529 @@
     "incidents": []
   },
   "2026-10-15": {
-    "status": "clean",
-    "incidents": []
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「まちの安全ひろメール」配信サービス事業者への不正アクセスによる個人情報漏えいの可能性について - 前橋市",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzdSZmJUR0F3Zy1LZUhDQXh5Tlk0SUpIUWpaNDlsdWlvUXJVcWlNUXJlc0VhbE1Wb2RRSGlsVENDcUZJNGlTVWZyM0dBaTJaMlBFYi1KUlF3Rjhrb0E0N2RhcFF4VzNZdTZ4OTZCdmRWc3VTQldKTmY3R0ZYYWtXQUlhWjREUGMyTF9DbGVDLWJDY0dZdWcya2l5MVBBN2ZkZWNpcVFDUjJsMy1Pb0RTdHBDRQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「NET119緊急通報システム」および「119RAIDEN」提供元における不正アクセス事案について - 阿久根市",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT0V4czEzY015OTQxSmdJWHMyelhlTFI3SWNZM3ptU01nRW1odG0xRzVadWMwcDB5TlFCWVZJdGZSNWNqQVZNczU5czBTSjBSbXRETXJJRER4RzB6VFozSUlGbFFNa2ZaZHJJYjJuQ0dBWmdmRnNpUjJkaHFJYnlxY1FmT2hidw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "1週間で4回の個人情報流出 ChatGPTに相談も消えない不安 - 朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QRmtva2ItRnduUndoYnFoNGRDMzVIeERQelVNTHJacjE1ZXpuclRublJSV3hDaDVZZnVReE5WQkFoZkI2OHdFLVQ4cjZvLXRVRDlIM0FWZUZUdTJ1UlF4VHI2aXJ4bDQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "不正アクセスによる個人情報が漏えいした可能性のある事案 - 中津川市",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qdDNBZTZGRlBZN1ItUy13QmNJeEdsWWJxdmhxSFpNbWkxMEEwNVh0NzF2Nk9vUGlBdFdqemVMS2RkVEFlWll2dHIwUkVGVXV1TGQ1Ylg3Y1g3TFVUeHV0OXdCZ1Jmakgwa0pPS2F2cw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "おかえりSOSまつさかへの不正アクセスによる情報漏洩の可能性について - 大台町",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KTWppSFZzRlpiR0FFYUQtQmVnVXFQbFBHY291Tm04ZG1oLXNQRGswY0dKX3h6R2hSaVV6TGt1dmU3bk9haklSa3MtWS01N2dsQ0huc2dyX0s0ZzRJbm1wdE16QUg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "不正アクセスに伴う個人情報漏洩の可能性について（NET119緊急通報サービス） - 北海道森町",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LZTF2N2VSeFhOWEoyYlY1N0ZjRVVJSTNZS1JSLUtQX25Wa2RHM1d3MGU2SklJRHBzX0ZMLUNIbU5IY0tXNEtUbi1USTVhUjRJVUcyWTRkSlJHVDBlcmtOc2hQcklHVmFuVjhQUVpORnc4RGQxWVBxdEtPNW51cXc?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "不正アクセスで「情報漏えいはなかったと報告受けた」 JR東など - 朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YLXVReTNCdlRzb1M5YzFEa1AyR1M2SktfUTJHbnlRYy16dVFPZzRYNmp6Umg3WnR6SS1iMUhnb3dMNVhWdHVYdnVER2Jtd2psQnBfUnZNSk8wT00tWHlmWi1iMTFGaTg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ソースネクスト、顧客情報2252万件流出か 不正アクセス受け - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40TmE2eHJqSF80T3RuUGQ3bUk4S1dadE8xa0l3LXBaaWUyZVBMREU0UmtxUnhwWUt0dHZyU0FkV1RVM3pXaWpJUTdObUc3QWJwREZlWDRzRExHMDhzVWxreHRPckRrTU9DVnVtbw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ソースネクスト情報流出か 最大2251万件（共同通信） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVDZBekJRM1FMaHV0djVQcHFoMUdyU2xJeEtQTWx5RGhBdVhYUHk2U213SkFERGQyUnBQckdHcThOT0o1X1ZvNlVCS1hhSnZMcU0wNDdpekVObTlEZ2IxS25Fa3NqWTh6cHRpVUF3aXRfWm9KYkU3N202a0liaTQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "いずみメール等配信サービスへの不正アクセスについて - 和泉市",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVFVRTRPZ19OOC13V3BONS1jVW41VXp5cUNqd0FyUk5rZDRHSmVuSXZPTjZGMS1HYWVGSEVLdi0wNkhHNGFQOXRmdlg0WGJ5TFJqOG10Z2FiWFo4WG5mQnRUZVgza2xXbFlhR1dyeExkcmJjUkZEMkkxWXlVcXVIMk9DZXpWaDExZDUzMWctVXVGdw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "社説：相次ぐ個人情報流出 高まる脅威への対応急務 - 毎日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lNGxNcG5Ud0M4cy1sbXRBZ3UxS1M4dG5nVy0xcFhaZDZmeEhKSGRaWEtldXBGN0gzZ0t4UUpTUzRrckhpYWl5NkJ0VHVfNW9QWU1CNU5nbTlOZHhjb2Zka1FuS3lqMjhT?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "エムスリーが個人情報漏洩 製薬向けサービスに不正アクセス - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qMWNyZUxtelZVS2h2M2JOV015VEdhWC1zR0VKd3dEdWZHamRfdTFiMERaR2R0akd1dmtYS2lNU3hyZ1IwR21FTzgwVjUyeFRLWkhubTFlazdteDRqelhmcVRLcld3QjZvbnJ6aw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH - 株式会社ラック",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lYmp0UjA0ajBPcl8yUjRFNnRoeTBRZXlrbnQ3TTRxblVYTkVMYk5QZVBRSk5tdU41R2YtNmJwZGFCQ1B1SDF0QkFyRVpQTWV0Z2UtYjhRNTU5dzBKdmhqTkFYTExGS1V4?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "情報漏えいは防げなくても、被害は減らせる 個人でできるセキュリティ対策 - Impress Watch",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhdVRFNW5iXzFlUjRDOVBPdjRQQXVmc3V4VnFNa1B4bS16eTFGX2IybmpScUpsWDZjZVduemdmN1hHN3pyM3lVLUxQZGZSQVBfN3dnQzR4QjVUNzJGcTgybWZSbDZPQQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ソースネクスト、不正アクセスでパスワード含む会員の個人情報最大約2252万件が流出 - INTERNET Watch",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2VFR0TTNNTTFoeE50Mnl3NC12elBHRERtQjZROFF6SzhMZ0RwMllZQzFMX3pYQUQ2aVhmS0wzQW5oRThNRFBNN3h4Z2l2c0lWRzRQRlV6TUV5cUw3dktXZk45UWcwb3M0ZjBN?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "アットリンクへの不正アクセスおよびサービスの一時停止に関する最新情報 - 株式会社メドレー",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpOXFlS2NSWFVocHBLTkZRS0hpQUZjZkhjSXpLb3VnS0lhNHVXb2U2aGZwcmVpUmI3NnlmYjdvUnJEQnpReVo3ZXY5dmMwWDNabkppUA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ソースネクスト、最大2251万件の情報流出 パスワード再設定を - Impress Watch",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Pck14d2tVclktalFvUFRFUDctT2YtNE12OHl3czlsTjJGSlB4X0lzTF9oUlhkeGFSRnVYVWJFMFNYXzBhZ0M3Z3J2MHR3TG0tUkJ2WVU5UElMRkNjUzFEbllOODQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "徳丸浩氏に聞く、タイムズカー事案から考えるユーザーデータ管理 保管場所と漏えいリスクの移転・回避、消去の判断体制 - https://unitis.jp/",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YSVp6ZnJzTmtJTmhmTWo2QWI4STVlakxnd0gzeXdhYm1meUpOOFpMN2hXbURJTS03WkswQ1dnYzRGSW9wRUNvUA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「ポケトーク」企業で2250万件超の情報漏洩か 不正アクセスでパスワード等流出の恐れ - テレ朝NEWS",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsTHFEZkxEcGR5ZEJtZ1BWMXo2RmlXZkFFVV9fTXpyM1VRSDBFalBpdncxQzVhM1U3WFU1Umo4aG5fa2xiQjEwUTVmUUdXYk11M0hvQlloemQtYTMzanpOS296Y2ZXS2dUd2RhbzMxN0JXUQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "コミックシーモアがサービス停止 外部から不正アクセスか - TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hYWowNTVTWGJVRWE1Q2x6ckx4akpPTkRnV0lyaVphQnhoU1A5VkdpV0RtOUpzN0FUR25Ed3hkQ3pzTUhGY2I1YnpjSGR1anQtdG5DSEpsUQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "十日町地域消防本部の災害情報配信サービスに不正アクセス 個人情報漏えいの可能性 - 十日町タウン情報",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HWUphNmtjT2t4dUxlU2JHend0UVZOX1JUY2QxOFlidERFVnk2UmtlTW44QlQya1A0cWdSdGQzN1hOZjlmeWZHSU9GYW1hcGpaZ0xQNWRWOU4xczJPaTg0?oc=5"
+      }
+    ]
   },
   "2026-10-16": {
-    "status": "clean",
-    "incidents": []
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "不正アクセスによる個人情報漏えいの可能性について - 恵庭市ホームページ",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcWhYanNDTFhDSlN1eVliWUJpTnlvVUxyR1R6Y3hTeExXX0liVkxyMnBJQW9xUzAtWnBXMkgzbmZ5R0dJMDR1YjFab180dURUY1o2cHRoTHhtV0hXRXFBN0VPcFE2TjJPdG84TTBsRzZJZmVBUThEOEJETGJ0VFUyZnBDWEVvUUsxQXcwSGt1Ulg0RlljdW9z?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「タイムズカーWebサイト」への不正アクセスによる運転免許証画像等が漏えいされた方へのお知らせ - 静岡県公式ホームページ",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UZVktTGZiblloOFhoSEdNNmNJVFNrd2tWRkkzTGRXVXJ3ekZ0UlIwN1FoZ3pvM3hsTVh1MHNNa2NHZHlfRUlyU0o4TnBzZmtwaXJmWGdHcnEtT2NBWkpGM3l5LUs4cmdVQ2pqMEVfN0Z3aV9MYThlc2FPWQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "IPA、「不正アクセス特別相談窓口」を開設--不正アクセスによる情報漏えいの初動対応支援 - ZDNET Japan",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kREZERkFNeXZkczB4cmdyaHh2LUhhUnc4d3NWMFZOYzZRVDB5dTFEcnJrSHgzZlVINGNDVjNNbk0tWDR0VEhnNG4xNG0ybW5qU1B3?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "日経、個人情報183万件漏洩 不正アクセスで - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmeGtIUU1LUWpYMkRkbDVtRmc4cl8tUXZGZ05ZZy12dGpoZnNrMUQ4a2Ixdmx3MWlna1k1ZzZrbFpfNTRWOGxiUVhXeHlxTXRicE9IWG85TXA2dzc4MDJTQjIxb3JqdzdmSlJxWA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "不正アクセスによる情報流出「実態解明と注意喚起進める」警察庁長官 - 朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hek9obEt6SV9uUWNCdzhDNmdNWm5ZTTFJbWlpLWZ0WjdCRFJ0d0NhaFlzalFrSGtfeGd5c0x6VFJZNjk0V0d6cXRBT2QwUjF3X1hRLU1MU19sN1oxV0dHSFFRN0ljdnM?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "北塩原3校も情報漏えいか アルカディア不正アクセス:福島ニュース - 福島民友新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lV3dpVkt4NEZZX0R3SHVVNWxSb2lXMW8yYk9KZ214N250N2hhc0ZMU2Rfb3g5MWZ0U0FGOFVkQTJfaHRJTXJRRVNRLWFHbG1WQ1NSTzU5NTR4VE4yYV9RXzlaSkRxc0s5?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "日経、個人情報漏えい 不正アクセスで１８３万件：時事ドットコム - 時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwQVUxWWlZYU42aTd0V1NqaE1JdVN6UnUwZXN2OXNCZXZFd3c2aHJMSmJJdDNQX0k4ZHczRVRPWkpqdkNSemk4UlB3Z3pYRjVpN3FnSGdoRlMtUkNFRUJWeW5LOA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "WEBサイト制作ツール【Studio】への不正アクセスに伴う弊クラブ公式サイトお問い合わせフォームにご入力いただいた情報の漏洩の可能性について - albirex-niigata-ladies.com",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3YmNKQ3pPLUJzcUZjNTVnTEZsdUhpcFd6RVlEeXFvSHhyd1lCQUIyd2R3V3h6MWFTTE0zU1BkS1ZjVkp3d2xyVUk1cGh3bVhLVnR3Y1p1OE94X0EyT0IyYk1oSmZnQQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「コミックシーモア」不正アクセスで会員情報が流出 サービスは停止 - 朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYUmdGaVlEVGlnbldFOTRjNFFFOEdJcFNSaDkwX19tTXJlaWxzUS1HWWFmbjVkY213SDNTWHlsdWFJMVROWGthUjVGTExIZHpkMnR1eEVXTTVwR19FNkJtbU5aR01razA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "NET119緊急通報システムへの不正アクセスに伴う個人情報漏えいの可能性について - 養老町公式ホームページ",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uaVZOMW9sRlBfX0J3aklKc3JUbU5wV0JMeC1QTFN6V1VIUmkza2FrejBFVDdacW1GZm1oanFyY1RkMWFCZWUzQWlCekNneTVZZjZ0bXpxYjBqN1M1U3Jrd2FZQzhLZw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "Webサイト制作サービス「Studio」への不正アクセスに伴う、当社Webフォームに送信された個人情報流出の可能性について - Luup",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YbndOSUtIMFk0UWd5dHVWSV9rbWYwTTlnenZ6Q0tUUnFURUhfSUhxOUtCNHphT1lGYjc5dENlTFBmSXZ5V0dZ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ヤマト運輸の後払いサービスに不正アクセス、約531万件の個人情報が流出 - ビジネス+IT",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByZ2hOZFBoSEllQVAybm9jM1ZQUDV5RThKbk5aQlpJTURDMFp4QkVBUkV1Umd1cXJNUUdSR3hXclNzUzhNdC1wOGRmRXhoazEzVUJZ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "Web制作ツールのStudioに不正アクセス 顧客情報流出か - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mUk1CaU45UHZXYTBrRk1EZ0lOb3M5TEtBZW9Ga3J6a2VramRlNTROaHBUeUU4NkFtRVVMLU14Wk1NUW5fTFdQTTFiRlM0d0E3dWplbnFZbkFUVzFVV0RmQmk0RkFvSW1kQkcyMA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "Studio 株式会社で発生した不正アクセスによる個人情報流出の可能性についてのお知らせ - 琉球新報デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBESlM2Z1BNU0k0WlZ1Nkpjdzh2SFRaZ0FXM2xXUUZQOFI5enRQR0lGcmFzYUZ4RzRtSm9oc1oxWnFRNzVZMUN3YVlRbTJjaGMtek5VVW54TmQ5emVk?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "不正アクセスによる個人情報漏えいに 静岡県と県警が「緊急対策会議」2次被害を防ぐための県民への注意喚起徹底を確認 - テレビ静岡",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BZVp1RGJlX08yV0J1eG9sdWRzM29fa0xLcTdKVDAzdHNXQjFXM21ONklHUWpKXzNoVVZUOU1Tbmt6TldhSzFCWVgwT0VmMkw3U2l3dWlJSkRRRGg5Y0RyYzZBdw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "IPAが「不正アクセス特別相談窓口」設置、不正アクセス被害やその可能性を相談できる - INTERNET Watch",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvZTNYbmhBTmhKaHJUOW9ZOFRDZmRKWGJYbm5ubWZKaW1rbHNzOEJFU3pzbHpxZzJTc21MRF9yWXNWOGhxa3R4a1dDcE51UmdaeDZlY3pyMUl3YTJleHVPcWR1VzB6WkVnWXgw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "当社子会社のEストアーにおける不正アクセスによる個人情報漏えいに関するお知らせ（最終報） - BASE株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4NnlOSHE5eWt3aUtOaTV6emZrc0dDQXNrY0xuREFjeGRSQW8yY3RpWjU2NHNSMGR2Snp1OFBNbTNPRFpaLUVoc3FSSEZ5dGp3Y0lMMWRMWFpFNXFyTEJwb0R3?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ファンケル系、83万件の個人情報漏洩 不正アクセスで - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxTHVzUmV1MlVIMUpfejZYVE5VYmVZbG9ReEVuOUVxQ0FTaUQ2bEVoQ0hSb1JGaTBwaHRMaEgzT05ESjlnTUtqTC1DU1RreVFsbjVESFJUdlI0bVFTdkppU1JvT0UtMW5zLXFZVA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「SpeeCAN RAIDEN」に不正アクセス発生のアルカディアが続報、情報漏えいは引き続き調査中 - INTERNET Watch",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WY1BDOU1yRFhUNU5zRnpBalpGUGtZalg4RTRzMk5GNzhuUk16cTA4UzJuMVZCM202aHNHWHljWVpINzdoc3NqbkVkZVRONWk1YjAySm81c1Mza3NIRDA5cmRzY05acElKZnRj?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ヤマト運輸、「クロネコ代金後払いサービス」不正アクセスで約530万件の個人情報漏えい - INTERNET Watch",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ybEY2T0VCbV9KYWNKTWxiUXhhNzRlUElOTkZ3ekZ4TVhWckdLLVc3MDVvUk10RFQ3TW1UYjB1SExMNXY0d3k2dFdkRHJFRTF3TkRaY0pqaHNFM0U3VkFOZWZQUzE1YXV6SzBB?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "社説＞相次ぐ情報流出／AI悪用への対策を急げ|オピニオン - 神戸新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fdU9iWXMzaDdFeHRTWEMzdUdOeF9iWFo5b21zTXBUNEYzS2NDamtwejkxbkh1NnZMaGdxZ0R5TVVjR3JUcUxyV1JqY3lVQnZtM094LW9vRjFYcnlsaWIzSGtYZHl6NWc?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "【消防本部】不正アクセスに伴う情報漏えいの可能性について - 志摩市ホームページ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xOEhZcUczMU9YLVF1S3FyZktsaEVZcGswbTFKbWhLSEdoUkhkWFlFa01iX3JkWC1iWW52aW1jd0xhcmtNV2k5RDQ2c0hPYUlnN2VQNXRKTFp0UW1sMWgw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ヤマト運輸、個人情報約531万件が流出 不正アクセス受け - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ONmpndWh0YUJmcXdycTA4NFpIOUxvLVkyTWp5NXFUSnBqb2hjMkROaklqRE1vVDJpTlc3V1E1emR4NlBZNUdrcjBxa2t4RUdXa3FBMkxpak9Nb0ctTDhiZC11Z0gyLWt4TDQ2TQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "日経、個人情報漏えい＝不正アクセスで183万件(時事通信) - Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXRJbVB3VEY1ZzZFQmVwYnRYc1pibWZCa1h4aGVJZVhiSEJrQjg2SzB3TDRZNXZLX2c2ZXp6T3g0ZXdwQXpmeDFNbnJ0NXJYNkk2QlJueVF2NnluZzlfdTZwcW5Fb3hqcGZGazhtaXJCaXRjNzRySzV3U29rb3kzTlV0TVpHd2s?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "日経新聞社、クラウドサービスへの不正アクセスで約183万件の個人情報漏えい - INTERNET Watch",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBocTMtQUpnX1JLVHdsdUdFUXV0Q25OLVhhRmZFa2RIbFFFV09IVUd4clhJeC1seFg1UzNYWDlmaUEwb2dBTmk3TWthMDFSd2N5NmhZTFRQWmZLVjNnM0tFbG1yN1dfREhac3cw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "【記者解説】相次ぐ不正アクセスによる情報漏洩…その背景と私たちがとるべき対策とは？ - TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qdFYtb0JYdTdYNXdsd3B5bEY2N3JXSzlMV3V0bTlFZXNyMjBQcFI3akJwQmhxUm1aNmxuTU1Ob1d4T2VXMEsyU3JzMXgza3l5NkNoNUNxcw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "個人情報漏えい のべ1億6500万人分余に 利用者の対策は? - NHKニュース",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPM25fZGgzTVlNNU1YQmNYY25LaXFCQ0NxSENlU255c0FhblVuR19fRm5TMzd4T3lpRG9pc1dWQ2lIc29KUWYwWGRQZlJzNzhWZmpWOW5HNlRfUmJYQ1Vr?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ショップサーブ不正アクセスの最終報、漏えい対象は約2,335万人 対象店舗は7,858店 - ビジネス+IT",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JYmwyZ2x0NnRDSmtkVFliVUpNUUZ3T1RWb1VzSlZRcURGcTU4RzV5UjBaMWdYdHlWaXNRTElzSDBPZEFnQ0pGM2dCSlpITk9pY1BJ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "旅行予約サイトのスカイチケット、クレカ情報流出＝6140人分、不正アクセスで(時事通信) - Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTR3eDdRQW1tR3B3cWRBWXpnbUJKd2tibEF1TG9ieVVvZjlMVFlNbTlVU3ZxMjRHX3NqRktyNEF3RWE2U1I4WmNfYXlBem4tbktIMEJpMFJzUThYdkY0QnRsbDRnOFBrcGo4VDRmZ09FT0xOWGZKLXpSZnZuQXZualloQXMxLVU?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "BASE子会社、2335万人の個人情報漏洩 209万人の一部クレカ情報も - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKeE9TQkxTS01wdlc0UVJzcHRtWFZGS29TMV9jbXFOaUxTbjl2Umlzem9pY3VPWS1xTDJad21kZXlLVGN2MV8zdWFDdjR2U1JINl9zRTNzQU8weTJ4alpXeEpva0w5QU1sbko4RA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "【記者解説】相次ぐ不正アクセスによる情報漏洩…その背景と私たちがとるべき対策とは?（テレビ高知） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDc2ZYTkhfY3J6ZTZCdi1SQW5reFo2QW8xeWNXVHFjUEVKS0Zqd1ZfY0VIQ0p4RVFjejJlTzdMdFp4ZHF6aUN3a2I3Yk10RnJWS3JvTEVxY2RVaC1ZSFlpUWFzQnFlQmt5enhPdzBveWsyeDNCRnl5Z2hOb0dSaEk?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "トレードワークスに不正アクセス＝岩井コスモ証券の顧客情報、流出可能性(時事通信) - Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcFI0RHRCcFdNcUNfcE1mbXZ3VlMxOHdNbW8yQkhVT0hURmJwc0l3RmlsdG5JUDVyOWw1S0VweHRVWVJhdGttWGV1RHFzem9YVTdLd0ZIRWVMVVRTdUllS3FkY1UwcGZLcGJjR19Ec2x0c1BUZUFZTDJhanI0Q2N3eUU5UFBraWs?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ヤマト運輸で個人情報531万件流出 不正アクセスで住所や電話番号 - 朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02ZmFfVW9oMV9rYXhlUWQ0Q1F0YnhNeTVIOWExZ3MzU0pJRFVyWVRKcWwwbkNBc0NNN3RDUnhlYy1GWmVfSHVFSXNpNXRFU3hIdG1MV1JYSnFDZ291aEI3ZUJrSEN5bUU?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "日本郵便、国際郵便調査サービスに不正アクセス＝個人情報漏えいの可能性(時事通信) - Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSVVCTi15ak9ZeGFzOEhraUxmREV6amlTaGFxNnNnVW9SbXZEYTdfX3N3VV84c2Z6M3oybE8wVnVDVXRsdFd4YlRrYnJfMEU4TzZjRnJvbnJDbXFRRUY1RVhYbk96UWIwdS1MS3hIb0U1VC1uY1ZpMzRRc2Zjc29TZ1pXRmNfMnM?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ヤマト運輸、情報漏えいは５３１万件 日経新聞は１８３万件、続く不正アクセス―タイムズ、免許証画像を即時削除へ - 時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05S1VPV1g3ek1IZ3QwM0Y1blZSYnRkMHNlM3BHTVdldl83bks2T1lvMkNvYl92M1d2VlF6c1JxMEF2VTFuTVhmWDVodGFGNlMzejAxUjlxNmI2TDBhNUVVdzY0aw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "日本郵便に不正アクセス、600件の顧客情報が閲覧可能に - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MMTROd3JGcEdvVUxmbE12b0xRWDdKUTQ1S0pvN293dTlxaGpOLXVwNlZFUFJuZmk3TWFKTzNDWlcyVzA0U1JlZ1REdHp4MVdic2c3MTBZYWxHeXBIY1FPYktmaWFnSVhDa0htNw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "全国で相次ぐ個人情報流出 政府や企業への不審アクセスは去年の約1.5倍 警察がサイバー犯罪への対策を紹介 山梨 - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qbmVEaVpNd01rd0htTm5GUG5zdUNWWThxTk1NTkU2YkpQTm5iTmdGUTFuQ1VkTElyWDdWTmllbWRTTDhNdGJ2aDBYRmpuRmJCc0k5QTNZcnBLaWxTcG52bmN6Sk5FcjJsbnM5VTdheFluNmdXSTRYZFhGZTFOc1U?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "【県が緊急会議】県内で不正アクセスによる情報漏えい相次ぐ （静岡県）（Daiichi-TV（静岡第一テレビ）） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzbkwxR2tDSXVnMlRhb3cwczRvSVhOSC1DV3c1bjRVSmtpV2swcjlNb3AxR0VRR0NKamt5akZZb3RkWEtjUFEtOXJHRUJlWTJUNnhYY3NrajNtSmZXVS1OYkxJbGFTalpsTnh2V3lLREdDeWt1Qm9hUjJ6cGdBRlE?oc=5"
+      }
+    ]
   },
   "2026-10-17": {
-    "status": "clean",
-    "incidents": []
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "相次ぐ不正アクセス､注目の｢サイバーセキュリティ｣12銘柄 - 四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XVUdTQ3d0VUFKZzZEWTlBVWVyM240X3RtWVNBVkhtamFxMGVOUF9iOE9tajFRb2NJbG5TWlhmTDFLQXRpRFhuVktuZ2xNYTJYV0xrdGsyWQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "東北電子会社で漏えいか 不正アクセス約180人分 - nippon.com",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hWDlvT0pFY3pibWpnVU1KZ1VLZXBMTTRiRzlWd1ctX0RWWTN3U2FEWXRBUUxDV0RPSjliYmltbjZTdlpEMXJVTmhvS05yMTdDMTZDWGV5VHVOUkljWGtYU0FZZw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "東北電力子会社で個人情報漏洩か 約180人分、東京のHP運営企業に不正アクセス - 産経ニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12d3BGS1ZQRHZvVG9VWGxVTkhQU0VGeFUwZjJRbEpubUlrYnQydTRZQnluQXN2ZFRHem1xWTN4cmdnQ2d4M1lWcHZqN2FMUUhXbXE2TUpDTm9OS3hpMEZoU3pWRHJPbTF4MWhnRHViRE04eE5hcHc?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "県立21校でも個人情報漏えいか ＩＴ会社不正アクセス問題、和歌山（紀伊民報） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aZmt3SmpHazJobEx4eDNKdlN4M0VJaGhVUlRzVjVYd284MW5DNmdhdTJMaXJ0MWFFbElaRDI1UzBhc0l3RGEzN21KTjlxd1J5WUdmelFOVjBLSUNkS3N2S1ZDSmJzU3NnbDNOS2o0ZUdnZHd1T2MxaGhXWnplVE0?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "秋田県里親支援センター、１９人の個人情報漏えいか ウェブ事業者へ不正アクセス - 秋田魁新報電子版",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WMURSd2QyemJmNjR3VC1qX1RRR1BoekczSURMa0tfNGdOTGJBMUNGdjFHNFJ6a0Zianh1dW5WNXFRYVAxNTJrNFhPZ1c1V002S2x4NU05TDJnd1paTWp5bWJ3?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "旅行予約「スカイチケット」、約6000人のクレカ情報流出 不正アクセス - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zaXB2QUp4YjdLZmdybi1sUTZFVUpoOWhTRnlpNjI1d2QwQmhmNTdFU0xhckphTHk3NjctbWxVSXpwZGxqdXFnVkotQk5fRUZNODRzOEJfelBJNlN2aGxOajg3d1M1S2Jhd0o2VQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "IT企業への不正アクセス 諫早市の道の駅 個人情報が漏えいか《長崎》（長崎国際テレビ） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BWnUyOXVUcjZlV2psejFubE1TcjVXV2pTd1BYc1VRcENYSXZkczlLSjNGUVd3OG1HX252b2ppY1lBOWwtVTBYaVg2clYwSWRhU0dmeWNtZ01WYlozLTQxYUR2dFU1emN3TnFhNkU5Nk1NU0stSlNyanhCc1ItUVk?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "【更新中】スカイチケット“不正アクセス”でクレカ情報流出 タイムズカーは免許証画像の保存ルール変更 バーガーキング、ブックオフ、ヤマト運輸など被害相次ぐ AIによる攻撃の痕跡も＜情報まとめ＞ - テレ朝NEWS",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "新興市場見通し：不正アクセス対策関連銘柄は上値試すも相場全体ではリスク選好後退か(フィスコ) - Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc3hMLUNmbFVaMGd5bGp4ajYxQlMxYjlPMS0wcWZQTDhHQkR3dHlSR2lCTC1QQ3FxYjhrQkxBd2pZMmxodHdKMGpkR2JKMi0zQ3psTHZQTGZ5Zk96OE1NZkY2R3hud3huZGZMcXR3Z01HdkZuZk5lUmhTRjI1WXBTSlNtcTVCcjg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "サイバー攻撃による情報漏えい4年で1.9倍 中小企業で被害拡大 フィッシング急増 - テレ朝NEWS",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HbEYxUDVNWkZtZTJ0QV90Ml9VTnl4WjQycHFZS0QxZWd4Z2VnamlYYjZjTG9vRUFaSklvUEFBZndvaWpBUURmNlJ5azhZY2lCeXUwTjVHNTlfUERHbi1UMzI3TGc1ZFFZcGRwSXcza0Fsdw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "静岡県が所管サイトを緊急点検へ 個人情報流出相次ぎ（朝日新聞） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FdjRHOHRBdjFoRjh0NDVhZTJ3eXRqMnhLVkJlejQxbXluOHJGQlc0dEhNa055MEZLSkYzQV9YTEJyR3lvZHNIV3o5Sk5uUW9iLWpuVWRyTEtKQTZkQTBwNFFJeThTZDctUnNpS2s3SDBQak94LXZEVHg5NDczdms?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "【最大2335万人の情報漏えい】Eストアー、「ショップサーブ」不正アクセスの最終報告で明らかに（日本ネット経済新聞） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSWWZmRmdwMkRkRV9lM2N5bktuTTJjTHNPR3VaS25FNXoyV2VCRmlDQm9wdHp5M1A0b0xyd2lZOWhibFI5amdzbkd0SWNYM3h5MkhzODF2MXppMEoxTGlIZW00NTF1V2p5ZVNGSmpmTFpQR2NCMWgzZ0dJQWdVVms?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "相次ぐ個人情報漏洩は“氷山の一角”？ AIによる無差別攻撃も…専門家が警告する“本当の恐怖”とは 「あえて公表を控える企業も」「ライフラインや病院が次の標的か」（ABEMA TIMES） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9naFZjQWtIX0xQTVFDZWxTdlVpVkdoOXV1NXNlN1ZsQTlZdGpCMEg2VVlwUjNjT25hTHFGdTZ1QlJ5R2d2d0ZRTTAzbFdZa0JQdUdsWkg1cFBnMC1sdHpadFhldFdPVEJ0a3BldzhMY0tjUmRBVTc1M1RqSDN3UG8?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "三谷幸喜氏 個人情報流出相次ぐ中“最強のセキュリティー対策”告白「最後は僕みたいな人間が残るのかな」 - スポニチ Sponichi Annex",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0NQb2F2Vkdqbk95eVVyWDFJbHRWRWZHT1FLWng5QXlNeUU3Y0VITzhQT1U3MkNzaUQxS2F5SXJyc0xIcmgzZTBSUEdibnNXVnJaRW90RFFtZUxmNTNZSm0xNjkzbkU3SW1sMU1mTlFlc3pXMkxJazJMR2hpeVM3djdTbXdjQ210ZjRxWXhEaGRzVHg0QWc?oc=5"
+      }
+    ]
   }
 }
