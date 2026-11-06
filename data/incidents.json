@@ -12375,5 +12375,80 @@
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xb01ORkFUQ2ltUmlTbnR1N09PLWxhV3NhNnRuT3lFYTl2b0kxYWRIUXktc1BIaDFHNUVNeTBrbHhmelh6S3RHVEowNA?oc=5"
       }
     ]
+  },
+  "2026-11-07": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「非常に巧妙な形」ドコモが情報流出で謝罪 政府は緊急対策パッケージでサイバー対策強化に100億円支出【news23】 - TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FSVkyeG9lQVNySUNZSTJHOUs2YmdoYmVGZ3dNcjlQdTJqbTByTlFJYmliZ01nYjhZWVhUbno5T05FejFPaXhCTTZ5Q1hfeUczSUZPYmh1Yw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "りそな・関西みらい・みなとの３銀行、提携先の不正アクセスで解約済み顧客の個人情報５９３５件漏えい - 読売新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55MEQ0Q0ZwQXRpOUpiWVFQQWFXTzRZM1EyOEhlRExNZHlxemJBWVN6Y0xUb3RDLW9saG5WeFM5Rno0NUMwNHhud3h4cVFsbm56eG9DY2UtV3l2U01NYy1nNFFBSTh1Zw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「非常に巧妙な形」ドコモが情報流出で謝罪 政府は緊急対策パッケージでサイバー対策強化に100億円支出【news23】 - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wblJEWDdBOVpJWkRWTXg1QnhhWUc4cTQyeE9uUG0zQnN4cU80cTZudlI4Q0ZsZVpldVo1RTB6WmZzQUdHUVBIdl8wbzJmNGdtN1VPa196WUZCQVdDYXlVT1pkN25HVEVhc3RJTlY4c0NkZjlTaGxMejZ4RHNvMTQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "NTTドコモが会見 不正アクセスで顧客の口座番号など流出…見舞金検討（2026年11月6日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41cHNYemtLVEtIMnJVSnNFSEgtLXZyQk1kNzhQS0pzQXFMYU1UOEVtZ2hqMG1aSEFHYnZ0aXM0Mmw1WkRFN21GbTNwNUU1TmdBWHlsaEpXM3AyRUpzMVVjSDhxN3lrb1MtRHJNSHlWQVUybTB3aVg3YndDQjQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "GMO不正アクセスが突きつける問い サイバー対策、経営者の責任とは - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HdDFyMV9NaGdjLWp1SXphZDR4c3NCUVd2djU4QW5zekpoNUkxWEJHa21iWEk1VmJRS182bmtzTVh6Z0hNT1RTbHB4b0JLZ0JfUFJDZ0l4Y2ZxU2JORERNQzFKTEFSRnkybHE5SA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "クラウドに頼らぬSiri AI、情報漏洩リスク小さく 端末内で処理 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mSTJYcVhEeTNXdS10ajFoUjlMeEgzQ1dwNVdObl9ERVhjS1M2VXk3cGtYM1kxTFFMNWZxeTJjY3R4OExHXzFURTNrUGhmSmFzMTdlR05xdWtYeEo1REtKT2lBallJS2MyNzctbg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "警視庁職員のメールアドレス等が漏洩か 災害時の安否確認システムの運用委託先「アララ」が不正アクセス受けた影響 - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SY201TkhTMUJjVm40Q0N0VjFLaEZSN3RoNk1GX2sxTzI3WlhUNmhXTUZ0dkE2bjdzVXllOFg2YzV0TC0wZkY0S2h6Wk5ycmVaTkwtM3JtcFR4aE9LeV9oQ0JVNkJPMnIwczRTNHAtREVCeUZiVlhHdm5pVk5YZjg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "県ひとり親事業 利用者情報流出 アララ不正アクセス - 沖縄タイムス社",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0TDVjYVozRG1vUVlHV3BVQnZ5Z3ExN1ZZV1JoNzU2eU8tRWdSS3BwUkdLQTIxcmFSVTlhLTV4SUZSQ1FSendUNWZQbENGbkpRYUstWnlyeUhXendHREE?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "施設予約サイト 個人情報流出か 首里城、美ら海水族館 - 琉球新報デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93MEQ3Z2dIMmJ3RG9PMkgtdzVQbGsxSlhGUWtyR2dfa29tSExiQk5zOWdWT0ZUS2JsYnN3QWFUVVhxRDJlcWdtZGkwZlp0RWY3UW5mX2cwUXE5SlpwSzFRcw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "【動画】ＮＴＴドコモ、情報流出３０万件 不正アクセスで口座番号も - 時事通信ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82UnoydGhEVXNnSGUzRXhmdC1IY1ljNVZYRXUyYnJieVNQTl9fQVFWc3NiWE1ETG5lNDRzTzNpLTluNFhlMWpUaEI3dHhhREU?oc=5"
+      }
+    ]
   }
 }
