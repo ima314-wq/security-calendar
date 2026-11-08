@@ -12454,5 +12454,24 @@
   "2026-11-08": {
     "status": "clean",
     "incidents": []
+  },
+  "2026-11-09": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "セキュリティ団体JNSAが不正アクセス被害、管理者情報など最大1万5,128件漏えいの恐れ - ビジネス+IT",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qODRpZ091ekZpbkVXV1ZIWlpCTDFqSUJ4YmpQMk11bmxESXNaUHZjMGh4dWw5S09NTXZfMm40V21taU9ONHp2dFpDNWtaam5ncnk0?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "スバルファイナンス、「SUBARU安心ホットライン」最大3,117件の情報流出 ロードサービス委託先への不正アクセスで - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2lub2NLUGdvNlU2MTlEZGlvTUR1U2c2c2oyVTZCLWtiNFdtenNEdUw4aFhHaDlYOFJzbEZMS2lpQU5la3JZa3liQS1iay1ZdDBENmRKRmdJVEZ0TlVDdmxRTTFhbUNrVTRzWFNybWNLdUx1S0xHVjRfWjJhcWJJR0tNd2IzZ0JHY29MQW1ubzQ5NjBRUWFB?oc=5"
+      }
+    ]
   }
 }
