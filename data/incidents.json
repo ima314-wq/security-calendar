@@ -12473,5 +12473,164 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2lub2NLUGdvNlU2MTlEZGlvTUR1U2c2c2oyVTZCLWtiNFdtenNEdUw4aFhHaDlYOFJzbEZMS2lpQU5la3JZa3liQS1iay1ZdDBENmRKRmdJVEZ0TlVDdmxRTTFhbUNrVTRzWFNybWNLdUx1S0xHVjRfWjJhcWJJR0tNd2IzZ0JHY29MQW1ubzQ5NjBRUWFB?oc=5"
       }
     ]
+  },
+  "2026-11-10": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "相次ぐ企業への不正アクセス ニトリで最大3762万件の情報流出か ソニー生命でも被害 無印良品には“新たなサイバー攻撃” - TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WcWNmNW5oQ1RvSVFHNVBrLTgzQXc1TlVZYXRMT1NZamNQQ1pHWHJ5UUszUDhscE03YXhmNy0xS2p6UmZHTkMtWDh1b2x4Q2VDU2dnUFExNA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ドコモオンラインショップ・My docomo に不正アクセス、最大約30万件の顧客情報が流出 - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GajVDUldLNnlnd25HUnRBbmNlMkNFTDBnV0ZsYTZxR1pCOTlmZU1IZU56WWJpYnB6Skw2VDJBOENOekExSjNHNFRlUEdxZ3lOVnByeWEwdnVlTEtuY2NCWFEyc0JWamFmUThDSA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "〈プライム上場で攻勢〉AIによる不正アクセス横行は追い風か逆風か？急成長セキュリティーSaaS｢HENNGE｣の実力 - 東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tWU01YVlORkd5d3RDQ1kxcG4ycktfWnEycWo2S3FRTTZEOEZCV2tzc3ZIcTdrZ2Z4OWYxb051SkpfaWtoek05ZE5lSlJrelVOV3RVWTNiOVVWcU1SVGJN?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ニトリ 不正アクセス被害 最大3762万件流出か 対象は商品購入者や会員の名前、住所、電話番号など - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqY3RTUl95UnBxTUJuQ2RrUkZzaEtVbkdIZW02Z0N6SzJhOWF4R3dRblhPUHd4dnFPNGNoRjA2MWFGTmpEN3AyRDJyZ3JFVzBVVElDU3AwalJmYWFWRjV0anFWQ2l6TnpVcDZZZTZKTTNpYVJoS0prWG9BUW14Zzg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "技研製作所にランサムウェアを伴う不正アクセス、約3,200人の個人情報漏えいのおそれ 顧客支援システムのID・暗号化パスワードも対象|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHhRTExtNWNraTBIOF9iVElhU0ItQTVmRVJKeDFpUlJZWG0yVEZrQlZJY1RXcnQ2UUc2T3B6UFBuaUtRQ2hVbGNCZXZMZTMzSEFrMGZZS1JQMEtWNE5HODNkWVVldDlsVlNwTnlnbFBWMThhbGR2N2V2QndkNzlzdUs3LU8tZkNGY2V5TEJoYVVpaDNLaDhPc1k0NjVVMFlE?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ギフティGで不正アクセス相次ぐ、eギフト5.5億円損失 サーティワンも影響 - 日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xQ3RrenEwQ1BqYThoT3VvX1E5UG1XWWZ5OTZsRGJfTWQ4aTZNR0Roc2ZoLU94TUREbFl5eHRqWDhQMHhVMmtqMzZuWTV4UnduVjhkaHJkV3ozTlkyaU10NW5lM3Iyck15UFJBZw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「投資のコンシェルジュ」に不正アクセス - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tbzZNN2JvbExMNHZRZnRNc3pBX3labTNZVXNwQVpTZjdGN0NtVXIxd0xSQzVYTk0xdEdrYlJHbU9fZElpRjRqeVJlQ1UybnVTZUQ5NTZQc3BnSGVGN2xNWXFuSmpjZDM0NFpWTg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "GMO情報漏えい〉「低空飛行でうるさかった」自家用ヘリにプライベートジェット…熊谷代表の華麗な私生活…一方、相次ぐ情報漏えいには「私は言語化できていません」（集英社オンライン - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XUnFFWng1dGd4cXFsQUl3dkpvMkxrUENWbGxlb2x2MGJDYldYX0tGU0xmaDc2MmNwamZERF93QTlBaGl0cVU1ZTQxUEF2V3dyUFFaUGs5V1daQ0FlWGV1ZmR6aFBTOW5PcHBmU1VHdF9jZVI4X01kMHRjLWwzUHM?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "SMBCコンシューマーファイナンスの保証システムに不正アクセス、外部へのデータ送信を確認 - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wcXl4YlF6RjFrNm4wcXd3eGU1NDVMcUpRX3VYZXRsbG5jaVN4a0lUVTlJYndBZkpoRkRJNHAwYnJHbUU0enVWUnJOc1lWaTAwWFFOVVZyQ05WZVE4eXh4TnpuQ3E1TTRQdlc3WA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "【相次ぐ不正アクセス】“漏えいリスク”に苦渋の決断… 個人情報を「あえて持たない」企業に個人情報“不要”アプリも【news23】 - TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DTG1XX0JpRXFWeFRHN1I4RkJYYkk4bExaQUdhTnJjYm45TVJTUHJMMkNUdXdyQTZIRlptYlFubm1lYUQtdjhHT1BGUjVhTTZ0d1N0QnhYUQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「SHOGUN BURGER公式アプリ」に不正アクセス、一部顧客の個人情報の漏えい - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjWk5KVzdBVktZd3haTTI5ejNsQkg3UTd3OFpfSXRVd1Y2dUxDYk1qOE9IM0VnUUQ3OUxYWDZ1NHpBNGQya3JaQzlGcGdUOFJPNnc5VDFFbFVORHAwdEhvbllsOXVaUmp4TWFGdw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "政府が冷凍・冷蔵システムへの不正アクセスめぐり注意喚起「異常な温度変化」「ヒーター過熱による火災」など 欧州で相次ぐ被害受け（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMdl94LWRtTG5QdC1wU1RBeVdxOTlIYXFvRGhyeGh4Ql9pbW9md0dwZ3NXbDVUWkdZNGxPampBNVdLNkN0S1dqVERtSXBiZk1xdldYeDc0d3VwRVVxY1ljb3pCZUc5Q2VEaDdhYW04Ql92NjN2cXRwcDEzdFhRTG8?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "第三者が管理画面へ総当たり攻撃を行い侵入 ～ イープラス フェス専用アプリに不正アクセス - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yMzRZZnVvVVZmS3pyLTFSOG9xemswLVpUZTgxNEFlZXI3Q2l4VnJSTUd2b203RzhwVjBmSFhjS1dtWTBWS0NVcV90YU9ZZ0FkS3d2QUk2cFVTWWxLcmpEeGRLM2RiQ1JmbEJHcA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "政府が冷凍・冷蔵システムへの不正アクセスめぐり注意喚起「異常な温度変化」「ヒーター過熱による火災」など 欧州で相次ぐ被害受け - TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oLTF3ZXlSVlhQR0syWXQ0b1lYSE1hMUNpakJKZUhUdGhlU0FhdnlCVzBXOHAySUtxZmZETVhaRGp0V0RmVFFiY1hSbzJqR0FJSmdBU3VoUQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "AI悪用 金融の火種に 不正アクセス問題 地銀 アリの一穴で瓦解も - 沖縄タイムス社",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vckZNRVBFeHd4MHNuUXY0T3JSYWxPVEhmUUpSY0V4VEtVQlJRSFZXTXJOdDFtWXNLWGxVTTNZX1JPa3U3YmU1NGtkVjhtZmxEcWdLeUhMQk1oUTNvcmc?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "フィンエアー、アマデウスへの不正アクセスで個人情報漏洩 約11万6,000件 - TRAICY（トライシー）",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YWGFVQ3BURENNWmFpMlF3M2RXOU0yMDR6RkV2Ml9fTk1EbHQ1MnVtM09fQWNFaGVrX2FTR25iLXpjTTdPTC1veVRielhBTEpmN2IwUHVkOA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "地銀サイバー対策強化 不正アクセス続出 国が補助金 予算規模は数十億円 - 沖縄タイムス社",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPdjNTUUkweUVlb0c3Yk1lTTJCc25TSG1PX0pucHh2Zmk1OUVEWWVJMmJBZDEtaHJJWlFtRDZnM3E1TG5ISzFEVGgtRjFzS2VHODIyRWhSN0pVM3poY1E?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "アララ不正アクセス、流出対象は約８１００万件 別環境の被害を追加確認 - 月刊私塾界",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5razdRT0o0ZDhSWUg4cC1nZ2gyRjVfeTc0TVVPX2dsdGljSEJycnhtUlVMYy1JTHg0b0RCS0VCQXdXb295NEV1OGwwUEw2Uzg4amc?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "情報流出被害相次ぐ ニトリは最大3762万件 - 沖縄タイムス社",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wYjJuTGN2OXZ6UTEwQ0ZoSnd6OWVReDZJV2NiVzJ3dFV0YUhPLWQ3aS05bjZWbWVXR0FJMmE1MUMtbEoyN19pMnF6S05DZVhCSFRTa21SdWp2MXlyRlE?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ソニー生命、個人情報２９０万件漏えい＝不正アクセス受け - リスク対策.com",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aaU9zbHdhaHUzTTZPTlFsUllCZk10TWdheHdhTFpXeHBJYmZkcl9nckx6SVVXVHI4RGlPZUM0NHdpR2l6Und6TGJiWF9oazFWdjY4ODE4dzc?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ニトリ３７６２万件漏えい 顧客情報、不正アクセスで - 琉球新報デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01bjVwZjhFdXc1VEtZVWxfNXAzbjVwVGVsakxub3A2NEdnQzFmcXF6MnI1R1ZlVDNOVUh0b0FQd1dBZ0pQRUJuVEY3VVBaVDhSV2xtZlRGaEkyekppWkVtSDN3?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "国家サイバー統括室、個人情報の漏えいなどにつながる不正アクセスへの対策を呼びかけ（ネットショップ担当者フォーラム） - ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFJMRHd0eWpnLUR4TFRzUU1pTFRvYk51cG9yMk9FMEUxUHFwY3lCSkF1SkpMbkNkUnpkeXBIN2Znd1o1c3JELUZya0VaRl9iVkxHZE1QWXF6YTlXSUdoNGNUTXdWQ1Z2VkxVd1RnWjl4bVk1WTJla2FyN0gyVWZSTC15djBORm5hRU9lekxzT2c2ek1GMjlySnFpeUp4V0pUTGhnSkdCeXFFSERfcnVz?oc=5"
+      }
+    ]
   }
 }
