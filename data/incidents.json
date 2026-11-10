@@ -12632,5 +12632,31 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFJMRHd0eWpnLUR4TFRzUU1pTFRvYk51cG9yMk9FMEUxUHFwY3lCSkF1SkpMbkNkUnpkeXBIN2Znd1o1c3JELUZya0VaRl9iVkxHZE1QWXF6YTlXSUdoNGNUTXdWQ1Z2VkxVd1RnWjl4bVk1WTJla2FyN0gyVWZSTC15djBORm5hRU9lekxzT2c2ek1GMjlySnFpeUp4V0pUTGhnSkdCeXFFSERfcnVz?oc=5"
       }
     ]
+  },
+  "2026-11-11": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "タイ航空で乗客の個人情報流出の疑い 旅客サービスシステムの委託先に不正アクセス JALとANAも同様の被害 - TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zU1kyMFFIM1A1Znlnd292MVpOR0o3aWx0QW1fNVpvNVAzelJ2VEs2d0pjVEUxakZ5Z2tIUmpQSlQtUDVUdlVuSElhWlZubUItOWZVd19lMA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "エディオン通販、PC向け決済画面に不正プログラム カード情報流出の恐れ - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBanItb1YwSmQ1RVZQMFJzWWJQb2toSlVuLWhFYXVzdWVubWduT1BSekt2T1pDUEJKaWlEYUZmQ1V5Zklpb3MxM3ZlT2VWQ1pnbVk0aFktY21JN1pJOVY1Z2xfcU0wS3oxNy13M3U2blBPeklob05uTm5ZTHBIME0?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "情報流出で局内大騒ぎ…放送乗っ取りの危険性も NHKが「最も懸念する流出データ」の中身とは - 現代ビジネス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTTjE0VWFISWx3cGZ4TGNvb0dyQnZUT2FPWEl0MFo0RlQteWtxdXZqMHg5N0h3RVE3S0gyX04yd29WYWVDZ2dJYzA5N29CU00?oc=5"
+      }
+    ]
   }
 }
