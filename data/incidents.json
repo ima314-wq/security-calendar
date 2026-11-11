@@ -12658,5 +12658,73 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTTjE0VWFISWx3cGZ4TGNvb0dyQnZUT2FPWEl0MFo0RlQteWtxdXZqMHg5N0h3RVE3S0gyX04yd29WYWVDZ2dJYzA5N29CU00?oc=5"
       }
     ]
+  },
+  "2026-11-12": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "靖国神社のお守りなど受け付けるサイトに不正アクセス 氏名・メアドなどの個人情報約1万4500件が漏えい - TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01MkVrSWNpb0lIRWNpWThQak5MamdGQzdwNThyTHBWMW1sTlFfN0xZQ2xmNUFjM2J1MUlLWjBSdmZVUS1qLVRsTXNHYi0zVXIwblZqM0FpTQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "オープンロジに不正アクセス、配送先情報が漏えい - LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DQjMzWUtKLTFKVHlBUEVCOWNhemEyaHB1WGcyakQtVEU2VEJrVkpqay1CQV9Ka0FOZVFqMU54SHVlU1FkOWVrYmJB?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "生活雑貨・家具ブランド「KEYUCA（ケユカ）」委託先 ナノテックへの不正アクセスで最大7万7,105件の個人情報漏洩の恐れ - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWNUQksxMFk5WXVWaDlWZjNvLWFPUFJ5ZFRsQkVxcXNmSWZsczlhNUVWXzcxR2VBeG95WV93OGJSb2ZBdTM0YkRjZVE5ajZSLWZXNnlqNUFWOW5MUkdDb0pxR2RrcGlYcS02TW8yWmlhdWNKd3N5V041ajJOdHpXUkRqd19RanhpWXhDNzBkelZ2Vzk5ZG1UVjBfWHB3c19Md2hyLWFmeDc0aTlaOXR3Vw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "1750円のかつ定食が1050円に…松のや「情報漏洩のお詫びで40％オフクーポン」施策がSNSで話題をさらったワケ - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3d2ZTaHRUNHprWFc5cy11ZkxBOE9pa0hKM0hyLWExWGdzTFR6R3pmd3FFZkVUQWN0YlhYRnpZUjZlaG9KRlJwdEVhMHdVYUlUZnZSa2N0N2FGWGlJTHc3bDhmeS1CazNJeWV0RExqZFRKNlBrZWlBMXRVcGd2Mm8?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "クラウドアプリケーション開発・ホスティング基盤 Railwayに不正アクセス、AI APIキー悪用で約74万ドルの不正利用 最大10万ワークスペースの認証情報に影響のおそれ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTnRXY2w2UlpFZnl4UGVlTWJHckxiSEU5alRaUXBucDBzeHV1Vzh4bG5lQWItM2tpa3V1RUt4MXMxWHJlRElnSFFlbFU1Yk9PbDY5b0tZMjREZjkwYWVpTlk2NDkwUXFaMkFSYUZiU1FyN054aVQ4TGwxY1dXYkRCOTFRMkU4NENlNDRYclJJMDRxQQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "グッドクロス 不正アクセス・PHP対応 緊急窓口開設サービスを提供 0120や050番号の即日取得と迅速な窓口開設を支援 - ニュープリネット",
+        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOdnNiWU9iYzlDNURxaXZyQ196a2VwcXQwMW5mY2wtLUI2WTJVMGVrWFk0cmw3U1gxYXJvcTJkb3JUZjlDWjNNbkdRQTR4MkhTdHZrU3VZOWVJaWJaVTR3THlOVXBvZnJJU0NoaEZUZkxZUkl5bGtMRnR6V0RBSnYwYWd3a25menpGWVIwUk9JU3YtUE8tOWpfSHlXbnRqZF9GeGg3N2hDZVRSWGhfOUlCYnBBbWY1dGxEWXdBbWRHdE5mWERaVk1kc3ZiQVZoYkd3TGpJNTVBTmxrT2F2WTBEcFp0Zm5nYnlYV3BQYVFpNGU5Q1ZjLTF6T3RHOWwwUnI1VU9kZzZzQ1Y1bnpTSDNKY1BpeUV2dUQxb3dIVkdCbktOZDhtaTlTa3hUeGxQSEZrUmRwdXRFRjlzT3dDRjd5aDd0TQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "タイ運輸相、航空業界にサイバー対策強化指示 タイ国際航空の顧客情報流出問題受け - newsclip.be",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mZHNxX01LN0dqd3Fwek9NWUl2VGVFMTdKUjhScTJiaklVd0k1YWVOTWszUk03dHh0VzJhNUV1ZGNIejdPWHRtcGF5U2VxOWdvOVBZQ2Zrb29uUQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "金融機関や政府で情報流出 口座情報やアドレス - FNNプライムオンライン",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fYmctbzBCRWdLNEFkVHdTcXNCcDJxYU9oUGVGWjZVYk1QaldkcTY4UnNxR3FqS0lZOHJHSmNWUnIxYS1CY2hLMmQzU0VEQQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "登録者のメアド 下野市漏えいか アララ不正アクセス｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0UG1wanVTcUNnN2NUVi1MTDNSY1NlLTQwdzhYdFc3TEJDc21kanhNcE5xUGIzTDk0dkp3OFlmdHAzdVA5eXhFVElILWF6QjFkRkVHQ3dESk5Hd3c?oc=5"
+      }
+    ]
   }
 }
