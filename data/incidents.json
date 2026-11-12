@@ -12726,5 +12726,94 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0UG1wanVTcUNnN2NUVi1MTDNSY1NlLTQwdzhYdFc3TEJDc21kanhNcE5xUGIzTDk0dkp3OFlmdHAzdVA5eXhFVElILWF6QjFkRkVHQ3dESk5Hd3c?oc=5"
       }
     ]
+  },
+  "2026-11-13": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ルーターなど自宅のIoT機器が不正アクセスの踏み台に 「過小評価」されてきたサイバー脅威とは - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UT2NyWm8tTlFEN1ZZYjNBRnlLVGp4cGlYTmQwQlM2STY0c25zM2FxMl9OU25mRkhGcGZVb1hCNTJQZC1NMEhUTmFFMDBKVnBuRjZ3TVdMMGpkaWQ2eERrT3IxSEsxUllCc294WA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "クレカ“全ケタ”109万件 不正アクセスで流出か『良品計画』社長が謝罪 - テレ朝NEWS",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ndERIbDY2NUZPQlczMG53WlcxV1NxYWx6UHVFWDdGcFRIeFBxTUgxenl4alFSellHRTlaOTVsejJhR2pKNHdtSXhsdG9tSUFnZVFVYWlGSTlRYnhUVmktUFlodkpRcW9DMUswVEVOSi1fQQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「ワールドマスターズゲームズ」のボランティアなど個人情報漏えいはなし 不正アクセス、京都府が発表 - 京都新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jaHpneldWb09KRkt3alVITnAwVkhCZWQtRnJtel9CcWJsT0REX1lteDlSSjUwbFlmbWRINmh2NVIxM2U3eG0takplamExVWhxNW04cHBESWw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "マルエツなどで利用の「Scan＆Go ignica」に不正アクセス、6万4,003アカウントの個人情報流出のおそれ 氏名・メールアドレスが対象|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYmNxNWJPTGJvY19vTFRERGVPWE10RmlXaEc3Ry14Q0JEaUhzR194MlZQM0RxVGk5dTU5ZDlWVGhRZ045d3NYN3o1R2RwbkRaY0JvYVk0cEYxODNzclcwVGg0Vl82b01WSFhyRzR4VGptV2pQd09UcXEyOC14QVJFSFhMS1JmOTJ4VnFnVVdnM19kQUQxNFl3VW9nWGxZSG4yVlBfMQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "相次ぐ不正アクセスによる情報漏えいでパスワード“複雑化” 管理する方法はアナログ回帰に？ “手書き”の「パスワード管理ノート」が人気 企業側が個人情報を持たない動きも - FNNプライムオンライン",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZUjhJM1pYalF0M3o5MDdLN19ySnI0eWRZSUxUaDc5OXZNNURyMVlMcVg3by1iUmNkUDB0d3VHUlpTaXJKMUJQWUE3Zjh4dw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「アートコラボレーション京都」チケット購入者のメールアドレスが流出 不正アクセス受け京都府が発表 - 京都新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oTlhFTldWRmQ3WTdONGVPc0xtaGxFNWRNVWEwNnBLcmZDN3IzM29kbDF0MHBhTFlWOV9WZ3AyRkN3OXhtajJ1VWZTaE4tRVBMSjRNd0tWaWY?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "JA共済、最大約285万人分の個人情報漏えいの見込み ロードサービス委託先PCSへの不正アクセス、口座情報も対象 - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFpfYXZUTk10bG1PdjJOVTVqc1B1WjFfYlhPZDd0Wi1PUUFZS28zNFNWS2prUFpOdThSdlF1azQ2M2pSbTdDbkV4RDBZSzVIRHhEQmVjM3drbDBabTZhYnBlMjdWSzVFakRSYWJlc1lPblhZQ3R6S1pfTHhYaFV1Nzg2ZHMyTnlNWU9uZUVTMzZmdWlsMFZoUFo5NEM4MXNOcGMzbkIyNnpvR1U?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "千葉県松戸市、オンライン申請システム利用者のメールアドレス 3万7,967件が情報漏えいTKC 委託先アララへの不正アクセスで判明|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOW1iRXVXb251azFFVG9QSnVfVjd5RWJONG9QZzFZaEtEWWZpVjJaWERjbjk0MEF3WlY2REktazFBWTlDdjhZdC0tdGlUZWFvUVVUNTVlNVV1UmRKZjdPbUtCWnd6b1RsdTc0blRMS0RERC1BSmVLTkRuNHhVYWgzVFVnVlVZN2FuS0I1U0lFQzZZSWFpLUFIaDZwTC1uQ2Ntb2lDeFZyZmQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "那覇情報流出 1万5千件超 メアド 市が注意喚起 - 沖縄タイムス社",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TY3lnZ0JpVkJkQWNOeTd5U0FWdTZLekpxOXZsa3pxclFDdnhoVlBXTlEzTXdIY09rOW9BREhweWR3RUs0Rmw1c3FDRG9xQVpPUDByb0hoZzJJNDlyX3c?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "SafePal情報流出被害者宅に詐欺の手紙 - BeInCrypto",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTMUIxTjlWZ1Q1bWQ5Q0dRZUZ6OXdDTDB5VWhXdUhmNmxTaTVacVRHYTVicktxem1CcWg2X2NjMDMyZzRXeWdOQ1pJQjdpazRacEVaMmRLYlM2MTZOSDU1cmFyVF9tUENreEM4?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "“無印良品”が削除すべきクレカ番号を保管 不正アクセスでクレカ16桁流出、会見で社長ら追及 漏えい被害への補償方針も - au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HTUpITW5ZT25yRW5RWWs1SUlCRVNCZlVqOEZBZUI2REdGaHdnUE1QYTF0TDZhaWdOamxsY3VIbVZ1UU1vbG5jOW9BTG9uNXlpX016WGZkeDdwcnZTMzNsNEg1elotbkZKcUhPdllB?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "［福岡県］参加希望者の情報流出か イベント巡り不正アクセス 北九州市 - 西日本新聞me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tZmdWTlBzbFNuRUtVRWhjNnJDR0Q3VHdLWFhYZGlTdGgzMS1xWW9jVHI5N091TzhCX3F1RjJabXRNMG1OaXZPeHFSWEFxM1RhQVB4blpn?oc=5"
+      }
+    ]
   }
 }
