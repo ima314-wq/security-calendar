@@ -12815,5 +12815,24 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tZmdWTlBzbFNuRUtVRWhjNnJDR0Q3VHdLWFhYZGlTdGgzMS1xWW9jVHI5N091TzhCX3F1RjJabXRNMG1OaXZPeHFSWEFxM1RhQVB4blpn?oc=5"
       }
     ]
+  },
+  "2026-11-14": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "マネックス証券、不正アクセス受け本人確認の画像１５９２件漏えい可能性…メールアドレスは最大１１３万件 - 読売新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJWVRYYldpaU5qdHdNV09kVXNMbUxSTjhnVlEycUpjaFhFUmJlUEhLU0hCaWM2eDJQdEU4UmxUZDhTTEJZaS1CQk9IRnA1SG03bkJveENDRkxHekx3WkljdVhDdFA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "宇都宮など４市町メアド漏えい確認 - 下野新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kUFFmLVd2em5QRTJVaHFXanlPSnh3Ql93bkF0S1RMYml0b1B5dk1obU9QYXVCWUNMRWNCdGw4a3IweUNXbWxaRmFQbVlWSUpXOWpNcDdReVZDamM?oc=5"
+      }
+    ]
   }
 }
