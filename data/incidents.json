@@ -12834,5 +12834,17 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kUFFmLVd2em5QRTJVaHFXanlPSnh3Ql93bkF0S1RMYml0b1B5dk1obU9QYXVCWUNMRWNCdGw4a3IweUNXbWxaRmFQbVlWSUpXOWpNcDdReVZDamM?oc=5"
       }
     ]
+  },
+  "2026-11-15": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "京成電鉄、スカイライナー座席予約システムに不正アクセス 最大約337万件が対象 - TRAICY（トライシー）",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBweTI0dDFTLXQtcm1RWnFTaUptbWl1TGdzOHRCYkNoY3dXekVGR0R2OWRTZ0VjSmk2T2VBVzhoNDFzbGZzQUdoZFBMMUJQdjhVd3JickpIRQ?oc=5"
+      }
+    ]
   }
 }
