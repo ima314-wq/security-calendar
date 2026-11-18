@@ -13041,5 +13041,59 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaDVPUkFWQTlRUDBSbE40THU5QzliNDRrNzV0LS1Vc0Z5STFxeU5EZVBmcGZsc2daRXUycWhpbXdNanpfdXRBTTVwbGczWjdsTldQTDBPb3ExT1BIaldjbmY0Q0J1Rk80dHBsbXdOcmVzcDAwQ3M2RUxRVFR2bVV1V043VkZWY3A4T29J?oc=5"
       }
     ]
+  },
+  "2026-11-19": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "個人情報漏洩、半月で830件に急増 「データ集めすぎない経営を」 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RR2lhejFxRFZLM3QxOHRvLXlJQUFja0VxVmNyU3lnYXltMXpQQ01rWmV3OTVYNW9qNDNoZTRsZGxJV2ZlOXk1MV81eDNUUFJGMURMbTJQXzFFSWlodVRKc3JhZVZLZFlpbXZjSw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "エア・ドゥ、2520人の情報漏えい（時事通信） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Jd2lLdzVEdlpyZ2xVNVNBTXRYdWtXTkF5RF9VMldpa256REVhOXdfMU4yc1hVS0RBa01Wci1mYUNpSjVsMnNsQ19aV0tkVWNXa2J5UjJ6Ul9GOU1oOXMxSnVLZzBjM3B5TlJfMUpCY21oRXpDNVRYajdFemt4a2M?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "無印良品｢最大2726万件の情報流出｣を招いたセキュリティの盲点…クレカ全桁も､最高益の裏で露呈したガバナンスの死角 - 東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fZmNkY2YtLVNUVVFua3BhUDMyZm41YmN1WHRpcHJXb0J3QjNUNFViWUZsV1oxN055RlZOOVNxcWUza0w2RlFvRDAwM2lvYzhaVU5WZXVpdWpQWWg0WGtF?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ミツモア、KARTEへの不正アクセスで6万人の個人情報漏洩の恐れ、339万8,469人の情報漏洩も - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXy1TOWpxNmR5Ri14eDl2WTEyWkJDZmpzRUEtZnlRU3FpcGg3UHFVTTFtUk9KajBydm9ST2s1aGxtY05QYllMOUlaUWJ0cUJON0tTYTVHU0tFczM3dGZGdDJaVmNPMjYtQjQ0OXlINlFvdFpKRnNGb0FqNFNaOUF5Rlp2MXZ3SDBVcW9pSFZtbS1vZTdTdWZhRXZxUXFNdw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "｢AIの仕業｣なのか？ 情報流出の公表急増…自社も被害に遭った元NISC幹部のIIJ社長が挙げる3つの要因 - 東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHdHJZTUhJcldrRkJEcUpkN2I3d2FIYnh4aUd4RmpEWWtEbmlmSUk3cFlQME5RQnVsZlNDTnN6RmdpUVZHRC1TT29KQ3dKRGdwLV93NFhmVGxOeS1qZDA4?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "県文書検索に 不正アクセス - 琉球新報デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0UHlEZGNBcGlFbGRBLVI1Yjhvc2RRb0RoWlV6aEgxOEg1MnQ5Skg4Tzg4cDhQVmZzTTJjNzdPN1Nvb2NjTko1andBU1FXU05KbmpVV0MtcHF3OFFpb1pJQw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "地銀委託先の点検強化へ 不正アクセス 金融庁 常時監視促す - 沖縄タイムス社",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96OUJJV29nRmFKSWxaTkhGbWZoVmxNcjR5TFFBTVBqNlpSejhpNE1YWjFIeFh0MWhzbThkV3VXb0NBNWoxbzdCeW5JbTJTX1NIb0IzVzZ4TVdOYjVKdUE?oc=5"
+      }
+    ]
   }
 }
