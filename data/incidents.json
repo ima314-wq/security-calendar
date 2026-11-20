@@ -13233,5 +13233,45 @@
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SRlpMbjE5MTNLYzFodkllcFQ4b3VwWGRHNzFJRmFVeGFMMVVhRGdvLUg3eGJlTmhYMWk4M0VTUy1EY0F2b3F5Wm5pSlAwSFBzT0FGMFNkd0FZdjFLaVNGaEp4dlA2UE5lM2VUMFo2RmJydw?oc=5"
       }
     ]
+  },
+  "2026-11-21": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "社説：ブロッキング 情報漏洩対策の手順を詰めよ - 読売新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wVHVFMlViSi1xamRNckVfcENLUEFYUVVxemMxM29JeE5WZVBfN2NTb2hfRGpYRzV4cHg1SnVIbG9iNG1rVDh3T2czWmsxRW1aaHQ3dUhodktEcGIwTWlCRU81SHVtMmM?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "警察庁がサイバー捜査の初動対応専門チーム「FFF」を設置 相次ぐ不正アクセス受け（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5VWtEV0lMYVE5X2kxVEt6NnE3eE1rUmNmaFhib0g2bWtLRmlrcVVlODlqYmNXWTJqaEpjNlZwUE5IZWxxY3BEckdXSU1rZ0FLdGdmRGxIVk1HX0ZNRlhoTUlPbThHWEY4b3NYcWV1N3FPX21MbUlWdm9wUlBBSzA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "プレイド 漏えい企業2200社 不正アクセス ZOZOなど被害 - 沖縄タイムス社",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zVGJ4cjF0ajZ5b0ZXQlF6TURENlNyWk5oRHk4aEVDR21VTFplOWd1WkxTams4Q2pGZVR1OEtiRl9qc3pPSUpkdkpRVF9zZkQ4WkpfSGZSbFg2TGJuc3c?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「年収」「金融資産」まで…楽天証券で最大1500万口座個人情報流出 強盗など二次被害に不安の声【news23】 - TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aNmJfYWlfdlJuZjdTUldBUUpaZ25tNWF6czFGTGpoNXN4Qkh5QTFRYlM3SENYbDBnOGpHT3ppaXZMVE43VFM3VDc1M3V1M2E2cFZGeHA3RQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "タイミーが委託先KARTEの不正アクセスで求人事業者22万人超の情報漏えいを発表 - ベンチャー・ソリューション株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXMmFud2FLZWpwVDlOcENQY1plR0lCaElxaUxxeFRZREpUX0x6aDNBajlIRGUzVzN4eTJ2dzd3bTA5WF85VTdqWXNHbG9yaWNvazBIZmd2dWFDM00?oc=5"
+      }
+    ]
   }
 }
