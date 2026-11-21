@@ -13273,5 +13273,59 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXMmFud2FLZWpwVDlOcENQY1plR0lCaElxaUxxeFRZREpUX0x6aDNBajlIRGUzVzN4eTJ2dzd3bTA5WF85VTdqWXNHbG9yaWNvazBIZmd2dWFDM00?oc=5"
       }
     ]
+  },
+  "2026-11-22": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「ZOZOTOWN」1518万人分の情報流出、退会者も対象 委託先のKARTEに不正アクセス - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pOU9mYUY1d3FScGVEX3hDQUhTRUdkdGk3M2xqdGw0a3l2ODZZX0M1dkc4ajZ4ajVORno5Vm53ZF9wOFBkVVJmZGhrSjdMOVI2M01XZUFJcjByTzZMbUpjNUp1RmdmUGd3OXVLMHVvZjZJTk9VcnBHZnUtajJWd2M?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "FBIの犯罪情報データベースに不正アクセスか トランプ大統領「良くないことだ」 - TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jYUpRT2s0Sk0wNFBoT3pIUTJBbC10RXdDY3ZtODVpdmR5dTcyVnZsN3JOdU1MQ2xEQXNCRENtblZNOFk2cXBOZVdxdkZDVEUyNXRXMkNBcw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "FBIの犯罪情報データベースに不正アクセスか トランプ大統領「良くないことだ」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ST2pyMzAtakpIMG5LdUcwNmI2bEx3amZzQ24yZDUwS21ZNjlQSmsxVFJWRTJ6SUlTZ0hkeDE4Tk41LXQ2YmpkRDJ0ZFlweWt4SFdES3poX0pycXM5alNUX2Q2VnU2OEtZWmpwRjdjbEVWZ1pDMW1DTlBNN0R4eEE?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "三井住友銀行がKARTEへの不正アクセスで顧客情報最大約1,400万件の漏えいを発表 - ベンチャー・ソリューション株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16QnBXOTVIUXdDQXctOFVkWmVOenlRR3JwUW5oX0M5aXdmc0U0YTJXcTVRbElPRGFYcHozMFVWRXFHaWFKcU0zYXNTVGpVVWE5QXpzbnhHeTB6c3M?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "プレイドがKARTE不正アクセスの調査結果を公表、影響は延べ約2,200社に - ベンチャー・ソリューション株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xRk1ZbVl2TTBndlo3RUFVT3BtckxHQXg0cmdzemdSc0x6YjlWdllzVExrRXRNMUhCMFVXVm9DLVhaZ2J0NmVDVmRMektYM2lERlhZUGt3STlNX2c?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "理研が富岳と理究への不正アクセス第2報を公表し秘密鍵430件に持ち出しの痕跡を確認 - ベンチャー・ソリューション株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UQXZ3QmxqeERtNC1uUE10OGJCQ0kzakFscWRtd2doUUwtbjhvVHM1N1FiU3BOYkUwXzFOQlpRM0JnQ0h2NHAzdUwzZkdCVTZKQWx6UEU5YWF0ME0?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "Peach、顧客情報899万件超が漏えい 氏名や住所、旅程も対象 委託先に不正アクセス - CNET Japan",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JTU9rYXRfVzBTc2kxX0xGMWpjRlVnSHItalpsSHlhODVaN21JYTQyU3pfdk5iZG9xemxPMXpYU0RTQkItWnI0bm5iYXFtWjBDTVE?oc=5"
+      }
+    ]
   }
 }
