@@ -13327,5 +13327,38 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JTU9rYXRfVzBTc2kxX0xGMWpjRlVnSHItalpsSHlhODVaN21JYTQyU3pfdk5iZG9xemxPMXpYU0RTQkItWnI0bm5iYXFtWjBDTVE?oc=5"
       }
     ]
+  },
+  "2026-11-23": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ピーチ・アビエーションが委託先への不正アクセスで顧客899万件の情報漏えいを発表 - ベンチャー・ソリューション株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kbVRfU1I0QzVySEkxNmhRSHpVYVZJOXZuX1ptUDMzRWxJejk0QmEtZHlNSHlBM3RXOER3ZHBpb2Q4Xzk0bzlsNHhLWEZXM2FrNFI3VFFlQzB2S1k?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "相次ぐ情報流出、「自衛」アイテムに脚光 パスワード帳は品薄に - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CRzhZeG5PemZrUVhudlVkM2ctS3c5eU5ZblNmb3JYRk14bk5KT2xzM1d1R3lySlBDalY1cTA5THV0TW1TSWdkbjViV0J2WW1HdlNEV0d2QzRKTUNCamx5d3g2bTR1dlRsZ1Nfaw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "不正アクセス、パッチ適用は数時間で ブレット・ゴールドスタイン氏 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92UFZaRnJJNUdvRUY2eUptQzJya1RUX0s1bHRKXzNOSDNuSkVrUFJMVlRGeW5mWGRyZHN6VE02LUhGakR0YURCdmdnM0VoaVQ3NThSQV9xM2tvMzB4c1NHcEdfTVpGWmNvOTBfaQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "六花亭がオンラインショップのカード情報流出でカード不正利用1件を確認と発表 - ベンチャー・ソリューション株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pbmVmM0lvVVNaMG9vSFRXd2R2UzBHb2U2N0N1RVVUM1FQUGlWUUgyb1FoUTZKRUZQenl2alBnNnlPT2pHc2JjU3UtRGZBamdpMmVSQl9tZ1BwaVk?oc=5"
+      }
+    ]
   }
 }
