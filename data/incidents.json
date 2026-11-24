@@ -13360,5 +13360,297 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pbmVmM0lvVVNaMG9vSFRXd2R2UzBHb2U2N0N1RVVUM1FQUGlWUUgyb1FoUTZKRUZQenl2alBnNnlPT2pHc2JjU3UtRGZBamdpMmVSQl9tZ1BwaVk?oc=5"
       }
     ]
+  },
+  "2026-11-24": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「情報漏洩倒産」に現実味 踏み台にされる中小企業、損賠請求のリスク - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83V19Kd09TUjdRd3NNc0hjanF0VFdXUEtSSTFxd1FfY1NrRzA2WkpKMFhBTDdraTJSeFVUcHRnT095blFFZlBadjlxRjc3X0p6WUxfM3dNTGhRdWlObncxNTBWd2Y0YWh2SEtfNQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "キヤノンマーケティングジャパン、約366万件の情報漏洩の恐れ、プレイド「KARTE」への不正アクセスによるサイバー攻撃で - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVkY4X1ZYeU04cmFyT2p4LTh2MzNpTHV4ck91VFVFc1dzS09xMGtsbGxPYnZVMnBaei1mbFJFb0ZMOTNHNWNRRTk1dUprWlFFR0VCTDZlUFZRd2REYWpRa1RPZ3hBSDI0WTNFWXZCWl9kaWtLd1JnamZ5MkloUkx4ajhvMXhNZFRrbkFLZDlvS09vSDFZNFp4UGxPYw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "マネックス証券の口座開設システムに不正アクセス、本人確認書類画像データが漏えいした可能性 - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XNWxDN0JtYXhxaTNfd0lEV212YlZLdHZwbEZBV2cwRjN1eFdpNlk0cWRRR20xOE42WGxlbVd4a21adG9rczA4MjhBQXNJN055MkNidk1tV0lPZm1lNTdTMnU5azJDLUhVUTg0Tg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "楽天証券に不正アクセス、最大約1125万口座のログインIDなどが漏えいした可能性についての記事などに注目が集まる - INTERNET Watch",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sTVctQUxSNGE3aFVCdmJmRGl6dHREUUJvR3VobXl2SkZIbzFKMDFyY3BMd1NWSjd6S19wLWR0b0tfZHpnZ05EbHU3dy1kRnZ4eklub1JuUEpvRjE4aUg4c2dESzREVkhyRlAtdGdKYVZFekttcGc?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "能動的サイバー防御「一企業のために乱発しない」 平将明・元担当相 [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00Mk1BSmxGUlBVZ1JpT01XNWtrQmp2QXloU2Q5dHZRMXJyVVQtZFk4cS0xTi04RWRjX1lnNGhNanBySldsNzJHelJIVmxIV2hib0hmckhEZXV2VjduUjJUVjlkYklmWlE?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "相次ぐ不正アクセス、ポイント経済圏に転機 個人情報収集に再考迫る - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2emtuMGdaTWJXdTNJekNYLVc3V1FNelNsSmxPbEIzSlFGNVRnak5GMWxHeUtEeWE4QTljUHBwdjZLYWQ2NWhWUmZBLVA3Si1TLVFreGZLTnRWUlp4MnZuQUczSFZPUGV5UEdRRw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "長島・大野・常松法律事務所に不正アクセス、個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORm1CbHZESGV4OVd4OXhsdk9PSHpOZFhSNGdlU281V2Z0dmZoWDI4dm5RenZMYkFfdmNZNVVwc1dwWGtGb2dZMmgzYmRsUWE4ZjY1R0NSZzVMNVNGSEtkUXZmV0ZkOFZlNTN1Y1lmX2VHeFJwUVN2a2tMTE80cHVoczZEcDlfZ3hBM0hoZGIzZ0s5UlE2QUF5cXJib2YyNkpyUE9lOFRaNTFaaFluc0E?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ニトリホールディングスに不正アクセス、最大3,762万件の個人情報が漏えい - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Bd2NLOHZiNVJTSHVUSU4ycjI5ak1ycG9hQlNfY3RadEdVVGhRY3dsaFFtMnBpM3Y1SFVGVzgzaUhsenBCYXEtM3dHdjhWbERoczVMQWhZVDl6enBSRHdGS0NzMXZVN1d0bG5Yag?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "サイバー攻撃に揺れる日本企業 ネット時代の広報対応に王道はあるか [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYR2lxOG4tN09FclFTVUQ1di1POVJnV18zUHJxNGlYa3pRZW1DMVNMcWtpUmNZUXZYUTREaWlRLTNJTnhRQjltSDZ6RFhPYzZ6NjFqYmxBOVFFZkZpZkxQaFM5TGxEUVk?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "インフキュリオン[438A]：「Wallet Station」への不正アクセスによる個人情報漏えいに関するお詫びと緊急点検の状況について（第３報） 2026年11月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tUUlYY1lTMHd4bkR5cFRTeWZ0eHBwWVRJcnBLdXBZdGc1cnZlaUZKY3ozVXQ3T1Y5MGVDNml6X1p2OUlVRS04ZGxwSmtWTGM4cm1QYzJUaFUzWkNUbGJIc2VlQmJnQlhDX2c?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ロート製薬のシステムに不正アクセス、クレジットカード番号含む通話音声データが漏えい - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vZVJvMDg1ZnhaYmJ4U2pTdEZlRXlhNERlQkFUT19LTVZlOXpqc0hsYnhoVlJJTnBLelB2UHhCTk5VdmdrOWk4Z0VLeDVsTktENE1GM1hQVFhtVnVNLXFnNmRoSjVpX2llekNoZQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "プレイド、KARTEへの不正アクセスによるサイバー攻撃で最終20億円の赤字予想|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSmJva1RvWWdwZjAtSnlIdXhCaW10SVhCLThZT2U3Q2FSODFDcDIzenNiXzlkTmFCSlFpRUZweU1jWV9OaFhqclZnc1lpYUhnWHh4N3BPY3haNFVvT0RQLTRTOU5uelJtOVJrUU9PWlJveG9UUTE1TjNFSGdBeDVzTkdiSl9ma3kweHVtX0VuU2twMzh1VldrZ0szblpLeXdrYjljUFJoYlYxaVJqNlE?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "スカイライナー座席予約システムに不正アクセス、最大約337万件の顧客情報が取得された可能性 - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XdHVMS1JWTnItVEdoeUZTaW1QNmszU21BRnBCZXNuQlBoZWl1SjlRN1gxRzF4UFA5blRyaDhJTk9Nekg4WG5WZnRpRFREZ0xEZDkwS25HY3NvMU9NdThnVXp1Nk1vSEVOaFdyNg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "キッズウェル・バイオ、委託先サーバーへの不正アクセスでグループサイト停止 11月21日夜から閲覧できず、再開時期は未定 - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM0xUTHNoY2x0SVUzQkZ4dk9HbGpBWk93cjFjX09BOTlnaEJKdndRaHY1S1c4R0kzNUhXX3A1RkRBdkN0MGo1UEhJTm9fcHFPQndoN0NVUHlObjVoRFZJZklXN0JIQXNpZHpvenppc3I1WWZ0WFRFVThRWVZMZ0d4TXdMMmRTbWVpM3VFZC1Gemk1SzZtTHUwS0VrVE1WcWJ2NzVJV2JZaDZoZW5wMUxfSTFYTnNxSldzcFE?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "米国に及ぶ北朝鮮の長い手 大情報漏洩時代に備えよ - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zMzBLMzF3QmVFS2dKZ3pPZjV3bU5udUpXQ1RoRW9ETm9DeUI2X0I5bVBrbm4wWllQWjR4WG02ZXM2N1VyZ0lVMXlQUWd4eDVNblV1WjQ4bG90VHlzNW5WdFB3bE1scElFYnRqVg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "佐川急便「SAGAWA手ぶらサービス」に不正アクセス、約1.3万人の個人情報漏洩の恐れ-お荷物問い合わせサービスとは別 インシデント|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFk3NXp1bTNqS255Vko5N25yUExaRkNaVzFhbnF1RkNqVkNULWY2MWM4Z2hDaDhUMEZ6S3YyZVBKazZNQWQwYjM4aHNacmZzOGVMcXlHRmZfaDdnbHJINGVBZXAxTDd2U3h1QVdIQW14aVU0dkFlaDRGSDdFV2pKVEZGRDVkV056dWE3cnpuZ1NuMVZEb0dHMURfdHg1aE5Ibzh0dWxwRFNNWElHMXM5cw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "スキマバイトアプリ「シェアフル」の社内管理システムに不正アクセス、最大約750万件の個人情報が流出した可能性 - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoRE1uVHB6Unc1c21nd3prcmxkTmVTWVZMU2lHQU4tbHdqc3BVN1AxdXpydUVqb21qeF9qZk94UG1rUVJpTFd5NlduTmZoV3Q5b1hEb2NNTGZ3aUEyZ200Rk5YUGEwQTY3LTRjLQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "サントリーウエルネス「Comado」最大94万7,667件が情報漏えい、プレイド「KARTE」への不正アクセスで - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamJTdlRqOTZpYnZmQk4tRV9pZFVoOE5hVi0wUnFadkJzUmtuOFEtT1kyaU85V19vUEZ2RkNmYk1JYjctQ0xOd2FhZUZHclpSWHgwbWxMR2JldWFGZzVzX2U3RlJyaUZtMUx0RnB5YUhfLU13dUpHNmVuMWZLMk5USmtvRlFGUWZZTlI4a2Y5V3N5bkZudF80UE5uQQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "電通デジタル「TONARIWA」に不正アクセス、パーソルキャリアが保持していた情報が漏えいした可能性 - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02TXVGUXdncnVKak5QdWwzZ1diSHJkNk13cWEzaVFZWXJsM0dFelJfbWFfeDZLR2pWZUlnMXZkbWpVMFRhS2FicmkxQVZVZzNOVUxTb3dHT3o0YzBBTXdHVEFGMEJWMTljMzFSNw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "RENOSY(リノシー)で情報漏洩の恐れ メールアドレス・生年月日などが対象、プレイド「KARTE」への不正アクセスで - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaURKaGFfamNSalpHSkNreXcyZkRPVmtvS3JkUlB5S2hWcW5nMlh2cDRBeUppSHNNajE3TjFPN2VHN00wT3lUUkF5WVpKSlhoWEg1T3M0ZUN2VHhJZWVqb0RSUDc5bjRQTGFJeGxSY095VnJiRnVjZ0R0S1p3dlMzdVlKSTRrR3BUUEU5RXJDazVkWWhjRHVPQWdXRGdTTXZKWHIw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "電通デジタル「TONARIWA」に不正アクセス、導入企業 2 社で個人情報漏えい - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45WFYwcnpDRmhqVVNaM1phZGNVTmdKVUtCME9xSGFJZEhTbUFmWWZLMWZRWU5xVDlzUXQ2Z204dEJycVFSRTdVUEVxcUdtUlk5aDl6THZITlJKRGplaHdOR0dFYWMxUjRDWU5lUg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "丸井・エポスカード、顧客情報延べ約1733万件漏えい 外部サービスへの不正アクセスで（アスキー） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5ejJyb0J5YkdwR0pDMWlYRnQ2al9lYWhPWjA5ekZScVhfdFdfMU1tX3JRa3FjNl9YM2d6QjhwLUtuM0g3UGpobkY5Z0JkSDJOa1VGUFZGQWpPdU8yTHZfelFhZ1loRzUyT1hnQnN0X25aeERBRHpRTWkybjNXOGM?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "アイルのSaaS検証環境に不正アクセス、実在する顧客情報・API認証情報が流出 CROSS MALL・CROSS POINT本番環境への侵入は確認されず|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc0VoZDZ0NGZzSTU3R3R3cEk0bEZ3ak9uZnpRLTlZTHpMVVlKMk4waGVyT0VZYndwMW1sWXhVbi0zX2d1LUx0bVNxbTJkLVRGa2twUi1uUEdXcjJaSThrYk5PV2haMUdrN0FBYXlXc3hhTElQQnN1T040a01Zbm5WdmV1c0Y3S053SHpCY09zT1RTMUhYekZhY2hzTzRzSXhSc29Gb3cwZllfVVBIdFBHMkJR?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "保険代理店に提供システム「FWD navi」に不正アクセス、最大9,000件の契約情報が閲覧可能な状態に - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EU2MyWlhqLWY4a3VCWDJ2NGhBeW94a2FuUVBhc0YxSDliNnEyTjgxLXFZNTktZk44d0RRSTg4cTFrWGpGcExhQWs5YUpLSUpFRnRUQWtUaHI1UVZNamN6SEJNNm5kYlNzODRrTA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "タワーレコード オンラインに不正アクセス、会員情報約1,100万件が流出 ログイン情報は1,021万件超 - 株式会社アクト",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WaUpQUlJmY0l5QXlYTGtXbmVmR0xtQjEwYUVic0FEeUh4M2k0N2JEbGdGVW9aY2YyMnM0aWJGclNQdzExeEx0cA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "マクドナルド公式アプリに不正アクセス 購入履歴やスマホの位置情報が対象に - ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoUnBTd3k5ZzQ5LUVBSlNTcGNzVXB4YWZKOUhTX1JfV2xNZG1makdZanVCTlVvRXB5c0ZDRUpXN0xJNDE4bzRqVFhXeVdRdUJYbFBiVQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "債権回収事業者に不正アクセス、地銀の個人情報漏えい - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2b3dGU0NUTWpsdTZ2WUc0U3pMeFRQLUlkWFJtRHFjVjlBS0dOdHlNM19USjFEakw2LTh6QmNCeEpqQTRqc1A4QjJCa3NMem83Si1VVVdCbm1GZ3lwX1phZzU4X1FHYzlwUjgwaQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "日本新薬「WINZONE（ウィンゾーン）」公式LINEの登録者最大4万921名の情報漏洩、COMSBIへの不正アクセスで - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2lZWnZ5UC1yZTVILXluakg2bjJBT0VUam14Z3pyVk5zb0YzcmRUMlJ0S2dfZVJ2Qjh3Skkxcy1zQzBfeGYyQ2NEQXRYMm5YVExVU1FqQXRpQzhteV9vaFRjSko2bXVwc2lRN2pjTzdIQ2x2RFUtSkRqT3VHbjNOVm0wR25OekdoRHhGOVBHd0NzdnNXenczZmdZWTJwa2I2YkE?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "アットホーム提供の不動産会社向け業務管理サービス「賃貸管理システム」に不正アクセス - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Mal85d1BjdHAtVEVCckoxdU5oWWpyeEplRW0tb1VNd1diUzZkXzVhSDhORTVzbFFNd21lX0lhT1hkb0ZmR2xoenlDcEV3MjVXTjkta3JpZlVqVjJ6R0ZJaGlLV3RXN09NR1ZrbA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "問題は分かっていたのに､防げなかった…｢GMO不正アクセス問題｣が突きつけた日本企業の\"致命的な弱点\" - Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3otSUtLVHVRT2pEUVNHQzVlWUNJQUEycWNLNUxucWxvRENBTHFBMGl5bGNPUzRYUDgtV0w2SVdjT3I1UHpuSEIzVkx0R3IteUYwYVl1VTFlT2J4bTJ0M1kweWZVeExLMlNZSHotd0JWeUlPX3VSMFA4YWJiWWJUSDZrWmUwaWM?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "韓国電力、約152万人分の個人情報流出…住民登録番号や口座・カード番号も - AFPBB News",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41VDJaS0lqcjY4bGhnRGVTTGthRm9lby1zSXpFSmNETUxIS0Y3WDA0cWx5VWRHNEJqaG1KbHp4dUpsWmVvaF9HWmRYRk9GVV9hMGVwcjhBT0lCelNMeVdIQlE0N2hLWVdoUnM1UVFIT3ZZZ9IBVEFVX3lxTFBQVWdBTGRqUGg1QkkyOU9KbE1pYTF4UUg5cU0yalZ3bUV2WjZ6U0FHY2dmR2tkT2VUZE90Z2treTNVYmR5N3d5Ykw2MTl4RTlMRWd3OQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "韓国電力、約152万人分の個人情報流出…住民登録番号や口座・カード番号も - KOREA WAVE",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNemtxYTVua210a1NWU2dlaXhIcWkyd3RibThySWsxV3FrRU16MWVyeEVOMkpVb05MUFhyWW9DLUxEQm40ZmEwVlVhOUo0eWREYkpNYkFCNzFWSHItdkdvSUFNZ05Edy1PWEpmbGU2T3U1NklOcWU3YzRyN25qa28wdUlUbXJEbzNyQXdnMjBsMTM2R09lUlhyaXpuWU9EbF9BTW1fOFlmcWtfZ1ZPMktrbmlRMmVjcEd2dWdHYW1WMUVrNW5FTERWSDEzWG9xSlBMMnlJdEZNS01FWldiSHRMN3BiTUtQRzdtSFRqdjE4eVRzSDNHNUJESjctR0xXY1Bod2xyVDcwcWVKOUR5TU4zTjB0ejdzRV9UN0xSdVl5SUVIQTJqcHhTLXhnaGptUQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "タワーレコード オンラインに不正アクセス、会員情報約1100万件が流出 パスワードのハッシュ値や住所も - au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aZ0doMFpCcElqQ3lYZGVLekFXbTRIV1g5QlgyTGJRU1dNVVRtN0sxS2JlYm51cjRKcGFqaUtfczNaTFk3UmhGWnFCNmo1VVJxSGpiUGpiTktmaGVYaWQ3RVM3TUx6VS1XY0pDNnF3?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "三星証券でも顧客８２４１人の個人情報流出 ＡＩ悪用のハッキングで金融機関の被害相次ぐ - 동아일보",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90YWxXbUh5V1pVNURpbXhBYjhrdWFzNWFNVXl4blotbTY1UHMxOEdjNXFXSU5ZU3dzWldCTzZ1T05QcTcyVXVuQUlxSDlXYllxUVJVeGZra21qaFVBa1lpY3J4QXVxdw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "プレイドが不正アクセスによる「KARTE」停止について調査結果とサービス再開の見通し公表 - ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmtMZWJaNS1LeU45ck5QekVrRDR2QU8tdklROHZPQ2VydVRPV2RTNk5pUHJLUEg2MEs3WlpmYmFMUXRBZm95UUFGMVFYNm5wSElOSXFucXNRN3VTLUxNXzVaX1NJbVpPN1VxOFk0UWJpMjNtXzNpb2MzVVJUYVJDTnBQSVBsMzg3eENpSWhnQmd2bFRIbU5abVVXcGY5TE8zemZfOGFQZ1FtRm_SAbABQVVfeXFMUDUzbWY2SV9qeDlPTnRWYzBxaVBIZlJqeVVRU3FLektTVloxdlJ4ampHc3h2Qk8yaXoxM0tkd1AxbDIyRGhUVDhROGtnY3pQS2M5clE5MWt0eTlla2QxcUdUTHd4NUVDQzhMaUU4TXcweEt4SERVSDBVM1EwNWxzOVIxUTBYZmJIT1RneDBPbHMzZnlSTG41TjdvYTZCVXFiTWZaUzlVSnpNTURFYTdWaFM?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ＹＭＣＡにサイバー攻撃、個人情報流出か - NNAアジア",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45eVhXWlBhcHh4QU5fWkh4dG8xeXR6Z3dheVhuM3NXRmlrMFRtd1RqX3A0bEQ3VGg4bWJ4WUJWenZnQjFub2c?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "楽天ブックスネットワーク川村社長 不正アクセスめぐり説明 年末年始に改めて報告へ 東日本地区書店楽結会 - www.bunkanews.jp",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rRkJsN0d1S2Q5bHN2cHZ1RFNxcFpkZlVLT2xRNVpPVkd3VlhZMExxS3VaZnZKcmhWQ2pjX3dReWhOby1OLXV4Z2txUDFucElsSGc?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "アイルがSaaS検証環境への不正アクセスで顧客情報とAPI認証情報の一部流出を公表 - サイバーセキュリティ.com",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OaGdqWGIyMmtUa0JhQ3NmbWFDZDRaY2ZTNENIX3F6Yk94RVMtZzVQc3paSXFlM1NySEFoTXBfakU5WVlRWkI4NFRYQUlvM3daUHc?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "情報漏洩の見舞金はいくら？お詫び金ランキング 最高1万円、ニトリ・無印は0円【随時更新】 - coki",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPajhPZ2ppekltbnEtYUlIYUNnd0Nld2xfVUxqUkx1d2hqR3RzcklpMDNMUk1Wby1JdGZMZ3ZrLXN6aVo4eFBYdmJvQzRUdw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ティンパンアレイがKARTE不正アクセスでRAGTAG会員最大37万人の情報漏えいの恐れ - サイバーセキュリティ.com",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FQjkzZllweHRnTmZZQmlweEI2MHFoY1gzX2REeEYta3dtZDBYdDZIS0xQQjlvNXZnMlpXNjBkeHZJQlQ1a0JEcGwwRnJIU1JsNHc?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "日本マクドナルドの公式アプリのDBに不正アクセス 購入履歴や位置情報が対象 - サイバーセキュリティ.com",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnZGxWd3hnTkxIR0IyQlJLSGowczBsTEdBN0VzQ0I5XzMwQVFMMzBkTklyMEFCTnh4a1VabXVCbHdFamJvNzduMmdUcHRTbjVTckE?oc=5"
+      }
+    ]
   }
 }
