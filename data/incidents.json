@@ -14026,5 +14026,185 @@
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xU3ROVVdrTnhfbTloU3BuOHV2SG5DalZsSFR0N0VnaG1pUDhSY3VnU3BuNU9xWVFKNnk5Tm9GQV9vOXBEYnNCSGIxTQ?oc=5"
       }
     ]
+  },
+  "2026-11-27": {
+    "status": "bad",
+    "incidents": [
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "相次ぐAPI経由の不正アクセス 企業が見直すべき認可と鍵の管理（FINDERS） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YWmJTSXplbXBzakZLVGc1QWlYVERBT0ItYkUzME9DMkU0RVR1TkV5S1Q3YXlzbmd5ZWM3cXVSTlhRVktSTmhEZjM1dElBX0hRQlgyRzhkTFJjMGgteEhLdWR3WDZrNzVLZ0Y0U2h5aWRjSF9Yc3FzTGs0NHhGYVU?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "NewsPicksへの不正アクセス、BIツール「Metabase」の脆弱性を悪用 - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zQ01yS2gtVmZ4YjdiRjQ4a2Mzb21MdlloSHJYZ0prOS1WcDFJRU1JZlp3RnRHbWRQQU0tVUJBMXJJb3hFVk1tNTFKS05oX2I1RXkzQ2ZwSzJaOExQWkhNWXBITTktNXh0LThWYw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "シンカ、社内業務システムへの不正アクセスで5,286件の情報漏洩、うち個人情報4,777件 「カイクラ」の会話録音データの漏洩は確認されず|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1hSUTN5VXQ3SjQ5UnhXX0c3OUJwbjl2SjZ0cXJVOWFoX19nX3ZXbDdOWUU5bmcwU1d5X0lOTkdIdnd3azNoTHFRTHJOcEJYbnVGUFJDT0MzVE01VDBQTF9uWW0tTExBQWpEY0NQb3puWS1wcXhObEU3aEkyZ3J0TnpmVm5maEt4c0kya0JBWEpELWQ4Vk5oV2l3QlFiM2ZkX2YzTEhB?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "サッカー:FIFAにサイバー攻撃、個人と事業の情報に不正アクセス - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uZ3hiVkcxTlBqVXFlVEVtR0ZtZGdGVVdBWXEyVi0tb3VNZ2RXczlPOF9uLUZxdHI0TmZILWpqb21JTkJSZVJOQ1FGd2w1cHRseVZlV1FTd21SaWlyeS1jd2RqNUdLbUI4VUNOTA?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "大田原市、メールアドレス538件漏えい アララ不正アクセス問題 - 下野新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53WC1oeWRhZFg5RnhMNW9iVm0tLWtleVJWeEFEYmZoV0U2N1N0M25pSG5LR2FOSFdpbkVXN3lBa1pjaFg0QmJDb0VNMnVFanJTR013Yk1xZVJ0WDg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "三井ショッピングパーク、311万9千人の会員情報流出 電話番号・性別も判明 - BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDcU1qTjZFUEFHUkVyTzF0ZFlLa244S21USEN6T2p0dnAyU1NQdzRPOUZEbzFwaDJjTE5XbG9ZcDFWSmhqcjNjZl9PZWhmNEFLNENJSjZOb0ZZZjdjVXZ4T2xIbERrOFNZY3lUS1pqTURXS1FX?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「六花亭オンラインショップ」カード情報漏えい 不正利用 1 件確認 ～ クレカ再発行時の伝え方を案内 見舞金名目の不審な連絡にも注意喚起 - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiSWVkdHlISjBONGtKZUgtNENUWGh1RUZCaWcyNC1YZWxRY19OaDZRNjY0VU9MWVNWSThtd1E1cTZhRmFXRXlaYTVCUmtUTUw4T2FvejVqZUVLVlNEUk4td2JWWl8yaDN3eW9kSg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ファンケル 傘下のアテニア、最大66万3,481件の情報漏えい-プレイド KARTEへの不正アクセスで 7年以上前に利用終了した顧客データが残存|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQamV0cXRXNUJoRkFtLUdzbWh1d2pXejFrRDhsQ1l6X2Z1U0JNWlFhQlBkTFVHa19oTm5NelN0cllTYlBVeTRKZ3JtQW5iYmV0b1NIWnppbG9Pank2OTVzUVVGVlZ1bTZ4RENPVWUyMkxkeDVOUGZpdVprcUp3dFJnZlc0SkZ6TTV1S0E4?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "相次ぐ情報漏洩の裏に「A2B攻撃」 - 日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GZ1RmeWRnOXpLQ1g4ZkRrSW94UzkzZ0xKTUFpbWg2QndzTENOWmV4R29QMkdnUy16RDVUX3gxRVg0am5oQ0RrU1BTR3hYczNUM0VOTXJqU3otUTV4eFZwanB1NVl0bGIyM0d5d2ZtSkhNTE0?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "三菱地所 8サービスで情報漏洩 みなとみらいポイントアプリや丸の内関連サービスなど、プレイド「KARTE」への不正アクセスで - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWFsVWtsaG8xb1R0UmgyTmIwVUxqSEhGYlBGSXQ3S2gxeG05NDNfcE9oTFRYNk5FeDdISTJHOW5FSHBfNnNLaUJBWGlYVktGVGdScThzcFJ1d2x2VkgtWGZZT1lmYWV5bGFpRHR4LVlEOWkyVEZNUzZkRS0zWWd6NzZPUFUzMXA2aVZ0ckw5SVBKblk?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "不正アクセスで札幌のクリスマス抽選会が中止に - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SQ2lrVHRZZVFucTBiSDlnYm9OQm95ekNxWDVzTTZYWTdPd1BHZkNhOVZXZXQyNU1wNkVkbzdWYjlMT3YxcWZOUS10bDAyZlFwVVVZbzN6TFB4Mm8zYlJBYUVSSzQ5QkpxMkJ3cw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "国分グループ本社「ROJI日本橋オンラインストア」、8,590件の個人情報漏洩の恐れ プレイド「KARTE」への不正アクセスで - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjllV1VsSnA1a1J3Z0lSUmdScnFNbHp3MlpRN3I1NXYxS0JZVTk0Y1hiUDBHeGJxLXNZWEZ4ZHdEVWtyTkF3MVVkTW1BdFVwWXpvSjVsTUhzREJ4dEs4TzBwZC1zOTN0REszSXdQb2dfbTA4Z0FKRGlPZU1WbEpGMWdIV0JiU1JZb1plTHJJbV9sZw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "今日もどこかで情報漏えい 第54回「2026年10月の情報漏えい」教育委員会職員の不正アクセスが発覚した理由 - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90UnFzU3J4aGJOV1VBVThiM2tmZWl3TUdHNktnel84NFBnNGthSDFiSGtpYjFMX2lwczR3RG1aM2R4M09tSE9ZQXQ3YlRzRnRtQU9nMXp3ajhRbVRONlVnV20xQ0kzalRQU2NFRg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "くふうカンパニー「リテール・リーダーズ」に不正アクセス、サービス停止 相次ぐセキュリティインシデント - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZC1Ia0pOZUNsY01nRDBxTUdxa2FtNXRXbEJJblZncFk4NmwwZ0hQamROQ0tDdFpZLTBpVVpfbFhNcGtacFIzVXIteUhxWHkwZTlUc2txaVhLTXEzZWg0dWF3MGN5UjM1d0QxTWVKS2x2d2RYWXZDeGhQOEI2RUl2OS1vQkxtYk54bTVMV0tTLXhDTXdrckNubEZVQQ?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "「ミツモア」にシステムの脆弱性を悪用した不正アクセス、最大36万6,850件の情報が取得される - ScanNetSecurity",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94eHRtc1lpWEl3ZjFSY1A4ZTk3NDlkeHdLck5HLV9hbkQtMU1jdzFJYXcxU0lBZWlGUnR4OEpoWklQbElCcGhMUE4yMWcwN1E3ODlvcWxNdEVPME5OSGswRmxXQjllRjZsM1RITg?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "パルシステム「くらしと生協」、延べ11万8,806人の個人情報漏洩のおそれ 配送委託先の佐川急便への不正アクセスで - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZjU1eWx6aGY1VHFtVGxwckhmWlNDY3kyZnJvM0Y3dGpiRk9tWHZKN0MwT0w5b3pleFRJQjdHbHYtQndPOUdTZS03ZjRoU3oxTUZNNzdpRDluOGJPNFFLRHBvYmQwazRPZ3VmeG9DMXI5Qm9UdThHRTRtUVRQUVBCUHhmSy1UeU1VZ1NuWDgxWGNBOUpFVTlNaHYzR1c2RjB3eFU5bmt0R0VISXFwbktlN3pQZTM?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ベルフェイス、顧客・名刺交換先など11万9,535件の情報漏洩 プレイド「KARTE」への不正アクセスで、法人を狙う標的型攻撃メールに注意|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVctYzE0bnZSbWRfZy1nRDZqOXRjNkVnQ25sN1hzWFVhOFJROUdyRUd6RTRJelVXTTh2cGVQcGVBZGt4QjJ5UEpQdzJQcTE3YmhyQ1otLXJsVVY0dFNwR3FfRDRLZ2k4dHhvaFI4blFOZk10NkpWU3Jxek9oV0tOaVpndTdlUmVIcEh6eFVIbnA2TkFkMWc?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "四国電力「よんでんコンシェルジュ」、追加で約25万件の個人情報漏洩が判明し合計約85万件に 削除済みデータがプレイド「KARTE」に残存|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVm5EYnJhMU95c2t6a3R5ZDNjcTBCeHJMc0dTbDJpdDRVUmQ3SkFzb0FEcDcyMnFMLUJUbVZrZGpwWDVGVHR0TVktSEhBeFkyeW11cXNoNnhQa3B4UVJYY1BEUlJCa293NU1IUE51MkZoTHhVSVd1MWVJSTR0bVA1c3NOdWNMVEVEbGhhbkdNYXB6ZzI3Vk83c2dkb3lReVZsdWdBYw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "パソナ、転職・再就職支援サービスの個人情報を含む約104万件情報漏洩 電通デジタル「TONARIWA」への不正アクセスで - 合同会社ロケットボーイズ",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObFZPR2RybGExQ05wTDdOcHhrQzRwdFZ1R0FHcTczMGoxNTJsbDRocUFGTUNXd1Bza2VoWmhRbnZjVFpiMGNxeWZMVE50SmphTWRZNFpNN3FHc2VhS0xCNW53TmxyUVBhZFB5X1MteFN6bzk3SkFycGl2N1ZtRDlDeHlZaXc1ZU5DUWdxRHZR?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ニューバランスジャパンがKARTE不正アクセスで最大約374万件の顧客情報漏えいを発表 - ベンチャー・ソリューション株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1TkdLcFNhOTJsZnZiWlZ2M3JkWnoyYzRHYnRuZDBtNWZ1eEZBdElsZUNETkNVeVpuNUZHQnVITUl2WlNTdkU4eUdQMFpSX2hfSTEwTzNhenU2R0E?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "ENEOSが公式アプリへの不正アクセスを検知しサービスを停止し漏えいの有無を調査中 - ベンチャー・ソリューション株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15Wlo0b2ppQWt5YlllV1didWNyLUlnX19JSExtbGtqaHNkNzlMclk0SjZadWxNa3p2M1hCd3JDcTdiWTEwNmlTNkZ0Xzk2c0tiWXEzOFZkMmlsZ0k?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "大田原市、メールアドレス538件漏えい アララ不正アクセス問題 - 47NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBreW1GcUx4bUlDNk5hc3ZxLXFLMzZYWFY3Sjd2aG81dnpLem05bU1kalBjb09SSDdxS3ZPNndjMjNFdW9OUXJTbXJDdw?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "FIFAの内部情報が流出…サイバー攻撃被害を認める。職員になりすまして不正アクセスか（フットボールチャンネル） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCWVl1Z2ZOQ3hlUkFFaG1Zd0hybUJiWjFRVzVtWTdTNzZGdTVrRERrZ2VHZFZNdVFKcWRyTXNJNVZTbmlSTHhRSkMxem5qME9WUXFZWWdrLVZnOHktelRCMDBHR0xpeWNXaS1mWElwVVQ5d3FVM2NVZGF2UHZDVUk?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "アディーレ法律事務所で委託先への不正アクセスにより個人情報約1,828件が漏えい - ベンチャー・ソリューション株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KOUlDZmV5TFp1aF9rS284ck85M1hVMDd5NVhnMTIzY1E4cHlWSmVBUGFMdmt0d0JTNm00XzZ3OUFKVW9UM0dOTGs2cFk5ZUVPajRTWUxlLVFfdW8?oc=5"
+      },
+      {
+        "company": "報道記事参照",
+        "leak_type": "不正アクセス・漏洩の疑い",
+        "scale": "記事参照",
+        "summary": "四電情報流出さらに25万件 県関係3万件 - 徳島新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xYUhPUzcxSmVSOV9QUGlRYTJxRUVjNzZVZWlxTFZ4QzVpenMxVVpKTkVkallwWklQRDJfdGMxWUxkX1N6VzJCb1NjQmRJRFd0czk3TzlR?oc=5"
+      }
+    ]
   }
 }
